@@ -1,0 +1,11 @@
+D:\Learning\C#Basic\ProgramingBasic28092019\NumberInRange\bin\Debug\netcoreapp3.0\NumberInRange.exe
+D:\Learning\C#Basic\ProgramingBasic28092019\NumberInRange\bin\Debug\netcoreapp3.0\NumberInRange.deps.json
+D:\Learning\C#Basic\ProgramingBasic28092019\NumberInRange\bin\Debug\netcoreapp3.0\NumberInRange.runtimeconfig.json
+D:\Learning\C#Basic\ProgramingBasic28092019\NumberInRange\bin\Debug\netcoreapp3.0\NumberInRange.runtimeconfig.dev.json
+D:\Learning\C#Basic\ProgramingBasic28092019\NumberInRange\bin\Debug\netcoreapp3.0\NumberInRange.dll
+D:\Learning\C#Basic\ProgramingBasic28092019\NumberInRange\bin\Debug\netcoreapp3.0\NumberInRange.pdb
+D:\Learning\C#Basic\ProgramingBasic28092019\NumberInRange\obj\Debug\netcoreapp3.0\NumberInRange.csprojAssemblyReference.cache
+D:\Learning\C#Basic\ProgramingBasic28092019\NumberInRange\obj\Debug\netcoreapp3.0\NumberInRange.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\ProgramingBasic28092019\NumberInRange\obj\Debug\netcoreapp3.0\NumberInRange.AssemblyInfo.cs
+D:\Learning\C#Basic\ProgramingBasic28092019\NumberInRange\obj\Debug\netcoreapp3.0\NumberInRange.dll
+D:\Learning\C#Basic\ProgramingBasic28092019\NumberInRange\obj\Debug\netcoreapp3.0\NumberInRange.pdb

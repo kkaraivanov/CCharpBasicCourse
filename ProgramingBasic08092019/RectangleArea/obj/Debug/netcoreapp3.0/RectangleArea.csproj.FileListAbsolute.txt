@@ -1,0 +1,12 @@
+D:\Learning\C#Basic\ProgramingBasic08092019\RectangleArea\bin\Debug\netcoreapp3.0\RectangleArea.exe
+D:\Learning\C#Basic\ProgramingBasic08092019\RectangleArea\bin\Debug\netcoreapp3.0\RectangleArea.deps.json
+D:\Learning\C#Basic\ProgramingBasic08092019\RectangleArea\bin\Debug\netcoreapp3.0\RectangleArea.runtimeconfig.json
+D:\Learning\C#Basic\ProgramingBasic08092019\RectangleArea\bin\Debug\netcoreapp3.0\RectangleArea.runtimeconfig.dev.json
+D:\Learning\C#Basic\ProgramingBasic08092019\RectangleArea\bin\Debug\netcoreapp3.0\RectangleArea.dll
+D:\Learning\C#Basic\ProgramingBasic08092019\RectangleArea\bin\Debug\netcoreapp3.0\RectangleArea.pdb
+D:\Learning\C#Basic\ProgramingBasic08092019\RectangleArea\obj\Debug\netcoreapp3.0\RectangleArea.csprojAssemblyReference.cache
+D:\Learning\C#Basic\ProgramingBasic08092019\RectangleArea\obj\Debug\netcoreapp3.0\RectangleArea.csproj.CoreCompileInputs.cache
+D:\Learning\C#Basic\ProgramingBasic08092019\RectangleArea\obj\Debug\netcoreapp3.0\RectangleArea.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\ProgramingBasic08092019\RectangleArea\obj\Debug\netcoreapp3.0\RectangleArea.AssemblyInfo.cs
+D:\Learning\C#Basic\ProgramingBasic08092019\RectangleArea\obj\Debug\netcoreapp3.0\RectangleArea.dll
+D:\Learning\C#Basic\ProgramingBasic08092019\RectangleArea\obj\Debug\netcoreapp3.0\RectangleArea.pdb

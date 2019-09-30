@@ -1,0 +1,11 @@
+D:\Learning\C#Basic\ProgramingBasic28092019\FruitOrVegetable\bin\Debug\netcoreapp3.0\FruitOrVegetable.exe
+D:\Learning\C#Basic\ProgramingBasic28092019\FruitOrVegetable\bin\Debug\netcoreapp3.0\FruitOrVegetable.deps.json
+D:\Learning\C#Basic\ProgramingBasic28092019\FruitOrVegetable\bin\Debug\netcoreapp3.0\FruitOrVegetable.runtimeconfig.json
+D:\Learning\C#Basic\ProgramingBasic28092019\FruitOrVegetable\bin\Debug\netcoreapp3.0\FruitOrVegetable.runtimeconfig.dev.json
+D:\Learning\C#Basic\ProgramingBasic28092019\FruitOrVegetable\bin\Debug\netcoreapp3.0\FruitOrVegetable.dll
+D:\Learning\C#Basic\ProgramingBasic28092019\FruitOrVegetable\bin\Debug\netcoreapp3.0\FruitOrVegetable.pdb
+D:\Learning\C#Basic\ProgramingBasic28092019\FruitOrVegetable\obj\Debug\netcoreapp3.0\FruitOrVegetable.csprojAssemblyReference.cache
+D:\Learning\C#Basic\ProgramingBasic28092019\FruitOrVegetable\obj\Debug\netcoreapp3.0\FruitOrVegetable.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\ProgramingBasic28092019\FruitOrVegetable\obj\Debug\netcoreapp3.0\FruitOrVegetable.AssemblyInfo.cs
+D:\Learning\C#Basic\ProgramingBasic28092019\FruitOrVegetable\obj\Debug\netcoreapp3.0\FruitOrVegetable.dll
+D:\Learning\C#Basic\ProgramingBasic28092019\FruitOrVegetable\obj\Debug\netcoreapp3.0\FruitOrVegetable.pdb

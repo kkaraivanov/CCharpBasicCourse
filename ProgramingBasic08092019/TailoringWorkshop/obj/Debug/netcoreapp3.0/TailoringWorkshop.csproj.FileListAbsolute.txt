@@ -1,0 +1,12 @@
+D:\Learning\C#Basic\ProgramingBasic08092019\TailoringWorkshop\bin\Debug\netcoreapp3.0\TailoringWorkshop.exe
+D:\Learning\C#Basic\ProgramingBasic08092019\TailoringWorkshop\bin\Debug\netcoreapp3.0\TailoringWorkshop.deps.json
+D:\Learning\C#Basic\ProgramingBasic08092019\TailoringWorkshop\bin\Debug\netcoreapp3.0\TailoringWorkshop.runtimeconfig.json
+D:\Learning\C#Basic\ProgramingBasic08092019\TailoringWorkshop\bin\Debug\netcoreapp3.0\TailoringWorkshop.runtimeconfig.dev.json
+D:\Learning\C#Basic\ProgramingBasic08092019\TailoringWorkshop\bin\Debug\netcoreapp3.0\TailoringWorkshop.dll
+D:\Learning\C#Basic\ProgramingBasic08092019\TailoringWorkshop\bin\Debug\netcoreapp3.0\TailoringWorkshop.pdb
+D:\Learning\C#Basic\ProgramingBasic08092019\TailoringWorkshop\obj\Debug\netcoreapp3.0\TailoringWorkshop.csprojAssemblyReference.cache
+D:\Learning\C#Basic\ProgramingBasic08092019\TailoringWorkshop\obj\Debug\netcoreapp3.0\TailoringWorkshop.csproj.CoreCompileInputs.cache
+D:\Learning\C#Basic\ProgramingBasic08092019\TailoringWorkshop\obj\Debug\netcoreapp3.0\TailoringWorkshop.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\ProgramingBasic08092019\TailoringWorkshop\obj\Debug\netcoreapp3.0\TailoringWorkshop.AssemblyInfo.cs
+D:\Learning\C#Basic\ProgramingBasic08092019\TailoringWorkshop\obj\Debug\netcoreapp3.0\TailoringWorkshop.dll
+D:\Learning\C#Basic\ProgramingBasic08092019\TailoringWorkshop\obj\Debug\netcoreapp3.0\TailoringWorkshop.pdb

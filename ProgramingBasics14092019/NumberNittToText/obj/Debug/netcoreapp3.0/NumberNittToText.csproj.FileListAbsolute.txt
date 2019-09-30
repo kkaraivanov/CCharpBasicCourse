@@ -1,0 +1,12 @@
+D:\Learning\C#Basic\ProgramingBasics14092019\NumberNittToText\bin\Debug\netcoreapp3.0\NumberNittToText.exe
+D:\Learning\C#Basic\ProgramingBasics14092019\NumberNittToText\bin\Debug\netcoreapp3.0\NumberNittToText.deps.json
+D:\Learning\C#Basic\ProgramingBasics14092019\NumberNittToText\bin\Debug\netcoreapp3.0\NumberNittToText.runtimeconfig.json
+D:\Learning\C#Basic\ProgramingBasics14092019\NumberNittToText\bin\Debug\netcoreapp3.0\NumberNittToText.runtimeconfig.dev.json
+D:\Learning\C#Basic\ProgramingBasics14092019\NumberNittToText\bin\Debug\netcoreapp3.0\NumberNittToText.dll
+D:\Learning\C#Basic\ProgramingBasics14092019\NumberNittToText\bin\Debug\netcoreapp3.0\NumberNittToText.pdb
+D:\Learning\C#Basic\ProgramingBasics14092019\NumberNittToText\obj\Debug\netcoreapp3.0\NumberNittToText.csprojAssemblyReference.cache
+D:\Learning\C#Basic\ProgramingBasics14092019\NumberNittToText\obj\Debug\netcoreapp3.0\NumberNittToText.csproj.CoreCompileInputs.cache
+D:\Learning\C#Basic\ProgramingBasics14092019\NumberNittToText\obj\Debug\netcoreapp3.0\NumberNittToText.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\ProgramingBasics14092019\NumberNittToText\obj\Debug\netcoreapp3.0\NumberNittToText.AssemblyInfo.cs
+D:\Learning\C#Basic\ProgramingBasics14092019\NumberNittToText\obj\Debug\netcoreapp3.0\NumberNittToText.dll
+D:\Learning\C#Basic\ProgramingBasics14092019\NumberNittToText\obj\Debug\netcoreapp3.0\NumberNittToText.pdb

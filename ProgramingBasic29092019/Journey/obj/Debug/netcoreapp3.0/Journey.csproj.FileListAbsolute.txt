@@ -1,0 +1,11 @@
+D:\Learning\C#Basic\ProgramingBasic29092019\Journey\bin\Debug\netcoreapp3.0\Journey.exe
+D:\Learning\C#Basic\ProgramingBasic29092019\Journey\bin\Debug\netcoreapp3.0\Journey.deps.json
+D:\Learning\C#Basic\ProgramingBasic29092019\Journey\bin\Debug\netcoreapp3.0\Journey.runtimeconfig.json
+D:\Learning\C#Basic\ProgramingBasic29092019\Journey\bin\Debug\netcoreapp3.0\Journey.runtimeconfig.dev.json
+D:\Learning\C#Basic\ProgramingBasic29092019\Journey\bin\Debug\netcoreapp3.0\Journey.dll
+D:\Learning\C#Basic\ProgramingBasic29092019\Journey\bin\Debug\netcoreapp3.0\Journey.pdb
+D:\Learning\C#Basic\ProgramingBasic29092019\Journey\obj\Debug\netcoreapp3.0\Journey.csprojAssemblyReference.cache
+D:\Learning\C#Basic\ProgramingBasic29092019\Journey\obj\Debug\netcoreapp3.0\Journey.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\ProgramingBasic29092019\Journey\obj\Debug\netcoreapp3.0\Journey.AssemblyInfo.cs
+D:\Learning\C#Basic\ProgramingBasic29092019\Journey\obj\Debug\netcoreapp3.0\Journey.dll
+D:\Learning\C#Basic\ProgramingBasic29092019\Journey\obj\Debug\netcoreapp3.0\Journey.pdb

@@ -1,0 +1,11 @@
+D:\Learning\C#Basic\ProgramingBasic07092019\YardGreening\bin\Debug\netcoreapp3.0\YardGreening.exe
+D:\Learning\C#Basic\ProgramingBasic07092019\YardGreening\bin\Debug\netcoreapp3.0\YardGreening.deps.json
+D:\Learning\C#Basic\ProgramingBasic07092019\YardGreening\bin\Debug\netcoreapp3.0\YardGreening.runtimeconfig.json
+D:\Learning\C#Basic\ProgramingBasic07092019\YardGreening\bin\Debug\netcoreapp3.0\YardGreening.runtimeconfig.dev.json
+D:\Learning\C#Basic\ProgramingBasic07092019\YardGreening\bin\Debug\netcoreapp3.0\YardGreening.dll
+D:\Learning\C#Basic\ProgramingBasic07092019\YardGreening\bin\Debug\netcoreapp3.0\YardGreening.pdb
+D:\Learning\C#Basic\ProgramingBasic07092019\YardGreening\obj\Debug\netcoreapp3.0\YardGreening.csproj.CoreCompileInputs.cache
+D:\Learning\C#Basic\ProgramingBasic07092019\YardGreening\obj\Debug\netcoreapp3.0\YardGreening.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\ProgramingBasic07092019\YardGreening\obj\Debug\netcoreapp3.0\YardGreening.AssemblyInfo.cs
+D:\Learning\C#Basic\ProgramingBasic07092019\YardGreening\obj\Debug\netcoreapp3.0\YardGreening.dll
+D:\Learning\C#Basic\ProgramingBasic07092019\YardGreening\obj\Debug\netcoreapp3.0\YardGreening.pdb

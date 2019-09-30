@@ -1,0 +1,12 @@
+D:\Learning\C#Basic\ProgramingBasics14092019\AreaOfFigures\bin\Debug\netcoreapp3.0\AreaOfFigures.exe
+D:\Learning\C#Basic\ProgramingBasics14092019\AreaOfFigures\bin\Debug\netcoreapp3.0\AreaOfFigures.deps.json
+D:\Learning\C#Basic\ProgramingBasics14092019\AreaOfFigures\bin\Debug\netcoreapp3.0\AreaOfFigures.runtimeconfig.json
+D:\Learning\C#Basic\ProgramingBasics14092019\AreaOfFigures\bin\Debug\netcoreapp3.0\AreaOfFigures.runtimeconfig.dev.json
+D:\Learning\C#Basic\ProgramingBasics14092019\AreaOfFigures\bin\Debug\netcoreapp3.0\AreaOfFigures.dll
+D:\Learning\C#Basic\ProgramingBasics14092019\AreaOfFigures\bin\Debug\netcoreapp3.0\AreaOfFigures.pdb
+D:\Learning\C#Basic\ProgramingBasics14092019\AreaOfFigures\obj\Debug\netcoreapp3.0\AreaOfFigures.csprojAssemblyReference.cache
+D:\Learning\C#Basic\ProgramingBasics14092019\AreaOfFigures\obj\Debug\netcoreapp3.0\AreaOfFigures.csproj.CoreCompileInputs.cache
+D:\Learning\C#Basic\ProgramingBasics14092019\AreaOfFigures\obj\Debug\netcoreapp3.0\AreaOfFigures.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\ProgramingBasics14092019\AreaOfFigures\obj\Debug\netcoreapp3.0\AreaOfFigures.AssemblyInfo.cs
+D:\Learning\C#Basic\ProgramingBasics14092019\AreaOfFigures\obj\Debug\netcoreapp3.0\AreaOfFigures.dll
+D:\Learning\C#Basic\ProgramingBasics14092019\AreaOfFigures\obj\Debug\netcoreapp3.0\AreaOfFigures.pdb

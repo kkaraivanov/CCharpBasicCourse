@@ -1,0 +1,11 @@
+D:\Learning\C#Basic\ProgramingBasic29092019\OnTimeForTheExam\obj\Debug\netcoreapp3.0\OnTimeForTheExam.csprojAssemblyReference.cache
+D:\Learning\C#Basic\ProgramingBasic29092019\OnTimeForTheExam\obj\Debug\netcoreapp3.0\OnTimeForTheExam.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\ProgramingBasic29092019\OnTimeForTheExam\obj\Debug\netcoreapp3.0\OnTimeForTheExam.AssemblyInfo.cs
+D:\Learning\C#Basic\ProgramingBasic29092019\OnTimeForTheExam\bin\Debug\netcoreapp3.0\OnTimeForTheExam.exe
+D:\Learning\C#Basic\ProgramingBasic29092019\OnTimeForTheExam\bin\Debug\netcoreapp3.0\OnTimeForTheExam.deps.json
+D:\Learning\C#Basic\ProgramingBasic29092019\OnTimeForTheExam\bin\Debug\netcoreapp3.0\OnTimeForTheExam.runtimeconfig.json
+D:\Learning\C#Basic\ProgramingBasic29092019\OnTimeForTheExam\bin\Debug\netcoreapp3.0\OnTimeForTheExam.runtimeconfig.dev.json
+D:\Learning\C#Basic\ProgramingBasic29092019\OnTimeForTheExam\bin\Debug\netcoreapp3.0\OnTimeForTheExam.dll
+D:\Learning\C#Basic\ProgramingBasic29092019\OnTimeForTheExam\bin\Debug\netcoreapp3.0\OnTimeForTheExam.pdb
+D:\Learning\C#Basic\ProgramingBasic29092019\OnTimeForTheExam\obj\Debug\netcoreapp3.0\OnTimeForTheExam.dll
+D:\Learning\C#Basic\ProgramingBasic29092019\OnTimeForTheExam\obj\Debug\netcoreapp3.0\OnTimeForTheExam.pdb

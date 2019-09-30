@@ -1,0 +1,11 @@
+D:\Learning\C#Basic\ProgramingBasic08092019\AlcoholMarket\bin\Debug\netcoreapp3.0\AlcoholMarket.exe
+D:\Learning\C#Basic\ProgramingBasic08092019\AlcoholMarket\bin\Debug\netcoreapp3.0\AlcoholMarket.deps.json
+D:\Learning\C#Basic\ProgramingBasic08092019\AlcoholMarket\bin\Debug\netcoreapp3.0\AlcoholMarket.runtimeconfig.json
+D:\Learning\C#Basic\ProgramingBasic08092019\AlcoholMarket\bin\Debug\netcoreapp3.0\AlcoholMarket.runtimeconfig.dev.json
+D:\Learning\C#Basic\ProgramingBasic08092019\AlcoholMarket\bin\Debug\netcoreapp3.0\AlcoholMarket.dll
+D:\Learning\C#Basic\ProgramingBasic08092019\AlcoholMarket\bin\Debug\netcoreapp3.0\AlcoholMarket.pdb
+D:\Learning\C#Basic\ProgramingBasic08092019\AlcoholMarket\obj\Debug\netcoreapp3.0\AlcoholMarket.csproj.CoreCompileInputs.cache
+D:\Learning\C#Basic\ProgramingBasic08092019\AlcoholMarket\obj\Debug\netcoreapp3.0\AlcoholMarket.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\ProgramingBasic08092019\AlcoholMarket\obj\Debug\netcoreapp3.0\AlcoholMarket.AssemblyInfo.cs
+D:\Learning\C#Basic\ProgramingBasic08092019\AlcoholMarket\obj\Debug\netcoreapp3.0\AlcoholMarket.dll
+D:\Learning\C#Basic\ProgramingBasic08092019\AlcoholMarket\obj\Debug\netcoreapp3.0\AlcoholMarket.pdb

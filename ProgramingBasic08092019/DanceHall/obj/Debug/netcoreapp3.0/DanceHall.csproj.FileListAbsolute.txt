@@ -1,0 +1,12 @@
+D:\Learning\C#Basic\ProgramingBasic08092019\DanceHall\bin\Debug\netcoreapp3.0\DanceHall.exe
+D:\Learning\C#Basic\ProgramingBasic08092019\DanceHall\bin\Debug\netcoreapp3.0\DanceHall.deps.json
+D:\Learning\C#Basic\ProgramingBasic08092019\DanceHall\bin\Debug\netcoreapp3.0\DanceHall.runtimeconfig.json
+D:\Learning\C#Basic\ProgramingBasic08092019\DanceHall\bin\Debug\netcoreapp3.0\DanceHall.runtimeconfig.dev.json
+D:\Learning\C#Basic\ProgramingBasic08092019\DanceHall\bin\Debug\netcoreapp3.0\DanceHall.dll
+D:\Learning\C#Basic\ProgramingBasic08092019\DanceHall\bin\Debug\netcoreapp3.0\DanceHall.pdb
+D:\Learning\C#Basic\ProgramingBasic08092019\DanceHall\obj\Debug\netcoreapp3.0\DanceHall.csprojAssemblyReference.cache
+D:\Learning\C#Basic\ProgramingBasic08092019\DanceHall\obj\Debug\netcoreapp3.0\DanceHall.csproj.CoreCompileInputs.cache
+D:\Learning\C#Basic\ProgramingBasic08092019\DanceHall\obj\Debug\netcoreapp3.0\DanceHall.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\ProgramingBasic08092019\DanceHall\obj\Debug\netcoreapp3.0\DanceHall.AssemblyInfo.cs
+D:\Learning\C#Basic\ProgramingBasic08092019\DanceHall\obj\Debug\netcoreapp3.0\DanceHall.dll
+D:\Learning\C#Basic\ProgramingBasic08092019\DanceHall\obj\Debug\netcoreapp3.0\DanceHall.pdb

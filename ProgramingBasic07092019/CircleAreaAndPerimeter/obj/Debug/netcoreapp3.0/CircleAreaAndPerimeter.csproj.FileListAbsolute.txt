@@ -1,0 +1,11 @@
+D:\Learning\C#Basic\ProgramingBasic07092019\CircleAreaAndPerimeter\bin\Debug\netcoreapp3.0\CircleAreaAndPerimeter.exe
+D:\Learning\C#Basic\ProgramingBasic07092019\CircleAreaAndPerimeter\bin\Debug\netcoreapp3.0\CircleAreaAndPerimeter.deps.json
+D:\Learning\C#Basic\ProgramingBasic07092019\CircleAreaAndPerimeter\bin\Debug\netcoreapp3.0\CircleAreaAndPerimeter.runtimeconfig.json
+D:\Learning\C#Basic\ProgramingBasic07092019\CircleAreaAndPerimeter\bin\Debug\netcoreapp3.0\CircleAreaAndPerimeter.runtimeconfig.dev.json
+D:\Learning\C#Basic\ProgramingBasic07092019\CircleAreaAndPerimeter\bin\Debug\netcoreapp3.0\CircleAreaAndPerimeter.dll
+D:\Learning\C#Basic\ProgramingBasic07092019\CircleAreaAndPerimeter\bin\Debug\netcoreapp3.0\CircleAreaAndPerimeter.pdb
+D:\Learning\C#Basic\ProgramingBasic07092019\CircleAreaAndPerimeter\obj\Debug\netcoreapp3.0\CircleAreaAndPerimeter.csproj.CoreCompileInputs.cache
+D:\Learning\C#Basic\ProgramingBasic07092019\CircleAreaAndPerimeter\obj\Debug\netcoreapp3.0\CircleAreaAndPerimeter.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\ProgramingBasic07092019\CircleAreaAndPerimeter\obj\Debug\netcoreapp3.0\CircleAreaAndPerimeter.AssemblyInfo.cs
+D:\Learning\C#Basic\ProgramingBasic07092019\CircleAreaAndPerimeter\obj\Debug\netcoreapp3.0\CircleAreaAndPerimeter.dll
+D:\Learning\C#Basic\ProgramingBasic07092019\CircleAreaAndPerimeter\obj\Debug\netcoreapp3.0\CircleAreaAndPerimeter.pdb

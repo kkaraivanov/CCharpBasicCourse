@@ -1,0 +1,12 @@
+D:\Learning\C#Basic\ProgramingBasics15092019\BonusScore\bin\Debug\netcoreapp3.0\BonusScore.exe
+D:\Learning\C#Basic\ProgramingBasics15092019\BonusScore\bin\Debug\netcoreapp3.0\BonusScore.deps.json
+D:\Learning\C#Basic\ProgramingBasics15092019\BonusScore\bin\Debug\netcoreapp3.0\BonusScore.runtimeconfig.json
+D:\Learning\C#Basic\ProgramingBasics15092019\BonusScore\bin\Debug\netcoreapp3.0\BonusScore.runtimeconfig.dev.json
+D:\Learning\C#Basic\ProgramingBasics15092019\BonusScore\bin\Debug\netcoreapp3.0\BonusScore.dll
+D:\Learning\C#Basic\ProgramingBasics15092019\BonusScore\bin\Debug\netcoreapp3.0\BonusScore.pdb
+D:\Learning\C#Basic\ProgramingBasics15092019\BonusScore\obj\Debug\netcoreapp3.0\BonusScore.csprojAssemblyReference.cache
+D:\Learning\C#Basic\ProgramingBasics15092019\BonusScore\obj\Debug\netcoreapp3.0\BonusScore.csproj.CoreCompileInputs.cache
+D:\Learning\C#Basic\ProgramingBasics15092019\BonusScore\obj\Debug\netcoreapp3.0\BonusScore.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\ProgramingBasics15092019\BonusScore\obj\Debug\netcoreapp3.0\BonusScore.AssemblyInfo.cs
+D:\Learning\C#Basic\ProgramingBasics15092019\BonusScore\obj\Debug\netcoreapp3.0\BonusScore.dll
+D:\Learning\C#Basic\ProgramingBasics15092019\BonusScore\obj\Debug\netcoreapp3.0\BonusScore.pdb

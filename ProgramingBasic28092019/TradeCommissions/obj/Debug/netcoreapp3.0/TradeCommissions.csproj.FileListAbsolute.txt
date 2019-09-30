@@ -1,0 +1,11 @@
+D:\Learning\C#Basic\ProgramingBasic28092019\TradeCommissions\bin\Debug\netcoreapp3.0\TradeCommissions.exe
+D:\Learning\C#Basic\ProgramingBasic28092019\TradeCommissions\bin\Debug\netcoreapp3.0\TradeCommissions.deps.json
+D:\Learning\C#Basic\ProgramingBasic28092019\TradeCommissions\bin\Debug\netcoreapp3.0\TradeCommissions.runtimeconfig.json
+D:\Learning\C#Basic\ProgramingBasic28092019\TradeCommissions\bin\Debug\netcoreapp3.0\TradeCommissions.runtimeconfig.dev.json
+D:\Learning\C#Basic\ProgramingBasic28092019\TradeCommissions\bin\Debug\netcoreapp3.0\TradeCommissions.dll
+D:\Learning\C#Basic\ProgramingBasic28092019\TradeCommissions\bin\Debug\netcoreapp3.0\TradeCommissions.pdb
+D:\Learning\C#Basic\ProgramingBasic28092019\TradeCommissions\obj\Debug\netcoreapp3.0\TradeCommissions.csprojAssemblyReference.cache
+D:\Learning\C#Basic\ProgramingBasic28092019\TradeCommissions\obj\Debug\netcoreapp3.0\TradeCommissions.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\ProgramingBasic28092019\TradeCommissions\obj\Debug\netcoreapp3.0\TradeCommissions.AssemblyInfo.cs
+D:\Learning\C#Basic\ProgramingBasic28092019\TradeCommissions\obj\Debug\netcoreapp3.0\TradeCommissions.dll
+D:\Learning\C#Basic\ProgramingBasic28092019\TradeCommissions\obj\Debug\netcoreapp3.0\TradeCommissions.pdb

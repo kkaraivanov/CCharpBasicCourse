@@ -1,0 +1,11 @@
+D:\Learning\C#Basic\ProgramingBasic28092019\FruitShop\bin\Debug\netcoreapp3.0\FruitShop.exe
+D:\Learning\C#Basic\ProgramingBasic28092019\FruitShop\bin\Debug\netcoreapp3.0\FruitShop.deps.json
+D:\Learning\C#Basic\ProgramingBasic28092019\FruitShop\bin\Debug\netcoreapp3.0\FruitShop.runtimeconfig.json
+D:\Learning\C#Basic\ProgramingBasic28092019\FruitShop\bin\Debug\netcoreapp3.0\FruitShop.runtimeconfig.dev.json
+D:\Learning\C#Basic\ProgramingBasic28092019\FruitShop\bin\Debug\netcoreapp3.0\FruitShop.dll
+D:\Learning\C#Basic\ProgramingBasic28092019\FruitShop\bin\Debug\netcoreapp3.0\FruitShop.pdb
+D:\Learning\C#Basic\ProgramingBasic28092019\FruitShop\obj\Debug\netcoreapp3.0\FruitShop.csprojAssemblyReference.cache
+D:\Learning\C#Basic\ProgramingBasic28092019\FruitShop\obj\Debug\netcoreapp3.0\FruitShop.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\ProgramingBasic28092019\FruitShop\obj\Debug\netcoreapp3.0\FruitShop.AssemblyInfo.cs
+D:\Learning\C#Basic\ProgramingBasic28092019\FruitShop\obj\Debug\netcoreapp3.0\FruitShop.dll
+D:\Learning\C#Basic\ProgramingBasic28092019\FruitShop\obj\Debug\netcoreapp3.0\FruitShop.pdb

@@ -1,0 +1,12 @@
+D:\Learning\C#Basic\ProgramingBasics15092019\MetricConverter\bin\Debug\netcoreapp3.0\MetricConverter.exe
+D:\Learning\C#Basic\ProgramingBasics15092019\MetricConverter\bin\Debug\netcoreapp3.0\MetricConverter.deps.json
+D:\Learning\C#Basic\ProgramingBasics15092019\MetricConverter\bin\Debug\netcoreapp3.0\MetricConverter.runtimeconfig.json
+D:\Learning\C#Basic\ProgramingBasics15092019\MetricConverter\bin\Debug\netcoreapp3.0\MetricConverter.runtimeconfig.dev.json
+D:\Learning\C#Basic\ProgramingBasics15092019\MetricConverter\bin\Debug\netcoreapp3.0\MetricConverter.dll
+D:\Learning\C#Basic\ProgramingBasics15092019\MetricConverter\bin\Debug\netcoreapp3.0\MetricConverter.pdb
+D:\Learning\C#Basic\ProgramingBasics15092019\MetricConverter\obj\Debug\netcoreapp3.0\MetricConverter.csprojAssemblyReference.cache
+D:\Learning\C#Basic\ProgramingBasics15092019\MetricConverter\obj\Debug\netcoreapp3.0\MetricConverter.csproj.CoreCompileInputs.cache
+D:\Learning\C#Basic\ProgramingBasics15092019\MetricConverter\obj\Debug\netcoreapp3.0\MetricConverter.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\ProgramingBasics15092019\MetricConverter\obj\Debug\netcoreapp3.0\MetricConverter.AssemblyInfo.cs
+D:\Learning\C#Basic\ProgramingBasics15092019\MetricConverter\obj\Debug\netcoreapp3.0\MetricConverter.dll
+D:\Learning\C#Basic\ProgramingBasics15092019\MetricConverter\obj\Debug\netcoreapp3.0\MetricConverter.pdb

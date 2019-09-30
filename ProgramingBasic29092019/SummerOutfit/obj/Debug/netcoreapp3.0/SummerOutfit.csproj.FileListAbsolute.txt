@@ -1,0 +1,11 @@
+D:\Learning\C#Basic\ProgramingBasic29092019\SummerOutfit\bin\Debug\netcoreapp3.0\SummerOutfit.exe
+D:\Learning\C#Basic\ProgramingBasic29092019\SummerOutfit\bin\Debug\netcoreapp3.0\SummerOutfit.deps.json
+D:\Learning\C#Basic\ProgramingBasic29092019\SummerOutfit\bin\Debug\netcoreapp3.0\SummerOutfit.runtimeconfig.json
+D:\Learning\C#Basic\ProgramingBasic29092019\SummerOutfit\bin\Debug\netcoreapp3.0\SummerOutfit.runtimeconfig.dev.json
+D:\Learning\C#Basic\ProgramingBasic29092019\SummerOutfit\bin\Debug\netcoreapp3.0\SummerOutfit.dll
+D:\Learning\C#Basic\ProgramingBasic29092019\SummerOutfit\bin\Debug\netcoreapp3.0\SummerOutfit.pdb
+D:\Learning\C#Basic\ProgramingBasic29092019\SummerOutfit\obj\Debug\netcoreapp3.0\SummerOutfit.csprojAssemblyReference.cache
+D:\Learning\C#Basic\ProgramingBasic29092019\SummerOutfit\obj\Debug\netcoreapp3.0\SummerOutfit.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\ProgramingBasic29092019\SummerOutfit\obj\Debug\netcoreapp3.0\SummerOutfit.AssemblyInfo.cs
+D:\Learning\C#Basic\ProgramingBasic29092019\SummerOutfit\obj\Debug\netcoreapp3.0\SummerOutfit.dll
+D:\Learning\C#Basic\ProgramingBasic29092019\SummerOutfit\obj\Debug\netcoreapp3.0\SummerOutfit.pdb

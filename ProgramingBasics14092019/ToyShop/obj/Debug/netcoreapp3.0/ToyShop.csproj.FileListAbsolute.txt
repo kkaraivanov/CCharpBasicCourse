@@ -1,0 +1,12 @@
+D:\Learning\C#Basic\ProgramingBasics14092019\ToyShop\bin\Debug\netcoreapp3.0\ToyShop.exe
+D:\Learning\C#Basic\ProgramingBasics14092019\ToyShop\bin\Debug\netcoreapp3.0\ToyShop.deps.json
+D:\Learning\C#Basic\ProgramingBasics14092019\ToyShop\bin\Debug\netcoreapp3.0\ToyShop.runtimeconfig.json
+D:\Learning\C#Basic\ProgramingBasics14092019\ToyShop\bin\Debug\netcoreapp3.0\ToyShop.runtimeconfig.dev.json
+D:\Learning\C#Basic\ProgramingBasics14092019\ToyShop\bin\Debug\netcoreapp3.0\ToyShop.dll
+D:\Learning\C#Basic\ProgramingBasics14092019\ToyShop\bin\Debug\netcoreapp3.0\ToyShop.pdb
+D:\Learning\C#Basic\ProgramingBasics14092019\ToyShop\obj\Debug\netcoreapp3.0\ToyShop.csprojAssemblyReference.cache
+D:\Learning\C#Basic\ProgramingBasics14092019\ToyShop\obj\Debug\netcoreapp3.0\ToyShop.csproj.CoreCompileInputs.cache
+D:\Learning\C#Basic\ProgramingBasics14092019\ToyShop\obj\Debug\netcoreapp3.0\ToyShop.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\ProgramingBasics14092019\ToyShop\obj\Debug\netcoreapp3.0\ToyShop.AssemblyInfo.cs
+D:\Learning\C#Basic\ProgramingBasics14092019\ToyShop\obj\Debug\netcoreapp3.0\ToyShop.dll
+D:\Learning\C#Basic\ProgramingBasics14092019\ToyShop\obj\Debug\netcoreapp3.0\ToyShop.pdb

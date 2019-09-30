@@ -1,0 +1,12 @@
+D:\Learning\C#Basic\ProgramingBasics15092019\GodzillaKong\bin\Debug\netcoreapp3.0\GodzillaKong.exe
+D:\Learning\C#Basic\ProgramingBasics15092019\GodzillaKong\bin\Debug\netcoreapp3.0\GodzillaKong.deps.json
+D:\Learning\C#Basic\ProgramingBasics15092019\GodzillaKong\bin\Debug\netcoreapp3.0\GodzillaKong.runtimeconfig.json
+D:\Learning\C#Basic\ProgramingBasics15092019\GodzillaKong\bin\Debug\netcoreapp3.0\GodzillaKong.runtimeconfig.dev.json
+D:\Learning\C#Basic\ProgramingBasics15092019\GodzillaKong\bin\Debug\netcoreapp3.0\GodzillaKong.dll
+D:\Learning\C#Basic\ProgramingBasics15092019\GodzillaKong\bin\Debug\netcoreapp3.0\GodzillaKong.pdb
+D:\Learning\C#Basic\ProgramingBasics15092019\GodzillaKong\obj\Debug\netcoreapp3.0\GodzillaKong.csprojAssemblyReference.cache
+D:\Learning\C#Basic\ProgramingBasics15092019\GodzillaKong\obj\Debug\netcoreapp3.0\GodzillaKong.csproj.CoreCompileInputs.cache
+D:\Learning\C#Basic\ProgramingBasics15092019\GodzillaKong\obj\Debug\netcoreapp3.0\GodzillaKong.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\ProgramingBasics15092019\GodzillaKong\obj\Debug\netcoreapp3.0\GodzillaKong.AssemblyInfo.cs
+D:\Learning\C#Basic\ProgramingBasics15092019\GodzillaKong\obj\Debug\netcoreapp3.0\GodzillaKong.dll
+D:\Learning\C#Basic\ProgramingBasics15092019\GodzillaKong\obj\Debug\netcoreapp3.0\GodzillaKong.pdb

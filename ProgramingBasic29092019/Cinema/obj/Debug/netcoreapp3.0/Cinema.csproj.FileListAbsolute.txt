@@ -1,0 +1,11 @@
+D:\Learning\C#Basic\ProgramingBasic29092019\Cinema\bin\Debug\netcoreapp3.0\Cinema.exe
+D:\Learning\C#Basic\ProgramingBasic29092019\Cinema\bin\Debug\netcoreapp3.0\Cinema.deps.json
+D:\Learning\C#Basic\ProgramingBasic29092019\Cinema\bin\Debug\netcoreapp3.0\Cinema.runtimeconfig.json
+D:\Learning\C#Basic\ProgramingBasic29092019\Cinema\bin\Debug\netcoreapp3.0\Cinema.runtimeconfig.dev.json
+D:\Learning\C#Basic\ProgramingBasic29092019\Cinema\bin\Debug\netcoreapp3.0\Cinema.dll
+D:\Learning\C#Basic\ProgramingBasic29092019\Cinema\bin\Debug\netcoreapp3.0\Cinema.pdb
+D:\Learning\C#Basic\ProgramingBasic29092019\Cinema\obj\Debug\netcoreapp3.0\Cinema.csprojAssemblyReference.cache
+D:\Learning\C#Basic\ProgramingBasic29092019\Cinema\obj\Debug\netcoreapp3.0\Cinema.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\ProgramingBasic29092019\Cinema\obj\Debug\netcoreapp3.0\Cinema.AssemblyInfo.cs
+D:\Learning\C#Basic\ProgramingBasic29092019\Cinema\obj\Debug\netcoreapp3.0\Cinema.dll
+D:\Learning\C#Basic\ProgramingBasic29092019\Cinema\obj\Debug\netcoreapp3.0\Cinema.pdb

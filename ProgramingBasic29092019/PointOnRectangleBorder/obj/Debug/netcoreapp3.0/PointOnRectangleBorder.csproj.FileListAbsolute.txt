@@ -1,0 +1,11 @@
+D:\Learning\C#Basic\ProgramingBasic29092019\PointOnRectangleBorder\bin\Debug\netcoreapp3.0\PointOnRectangleBorder.exe
+D:\Learning\C#Basic\ProgramingBasic29092019\PointOnRectangleBorder\bin\Debug\netcoreapp3.0\PointOnRectangleBorder.deps.json
+D:\Learning\C#Basic\ProgramingBasic29092019\PointOnRectangleBorder\bin\Debug\netcoreapp3.0\PointOnRectangleBorder.runtimeconfig.json
+D:\Learning\C#Basic\ProgramingBasic29092019\PointOnRectangleBorder\bin\Debug\netcoreapp3.0\PointOnRectangleBorder.runtimeconfig.dev.json
+D:\Learning\C#Basic\ProgramingBasic29092019\PointOnRectangleBorder\bin\Debug\netcoreapp3.0\PointOnRectangleBorder.dll
+D:\Learning\C#Basic\ProgramingBasic29092019\PointOnRectangleBorder\bin\Debug\netcoreapp3.0\PointOnRectangleBorder.pdb
+D:\Learning\C#Basic\ProgramingBasic29092019\PointOnRectangleBorder\obj\Debug\netcoreapp3.0\PointOnRectangleBorder.csprojAssemblyReference.cache
+D:\Learning\C#Basic\ProgramingBasic29092019\PointOnRectangleBorder\obj\Debug\netcoreapp3.0\PointOnRectangleBorder.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\ProgramingBasic29092019\PointOnRectangleBorder\obj\Debug\netcoreapp3.0\PointOnRectangleBorder.AssemblyInfo.cs
+D:\Learning\C#Basic\ProgramingBasic29092019\PointOnRectangleBorder\obj\Debug\netcoreapp3.0\PointOnRectangleBorder.dll
+D:\Learning\C#Basic\ProgramingBasic29092019\PointOnRectangleBorder\obj\Debug\netcoreapp3.0\PointOnRectangleBorder.pdb

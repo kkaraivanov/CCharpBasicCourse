@@ -1,0 +1,12 @@
+D:\Learning\C#Basic\ProgramingBasic07092019\InchesToCentimeters\bin\Debug\netcoreapp3.0\InchesToCentimeters.exe
+D:\Learning\C#Basic\ProgramingBasic07092019\InchesToCentimeters\bin\Debug\netcoreapp3.0\InchesToCentimeters.deps.json
+D:\Learning\C#Basic\ProgramingBasic07092019\InchesToCentimeters\bin\Debug\netcoreapp3.0\InchesToCentimeters.runtimeconfig.json
+D:\Learning\C#Basic\ProgramingBasic07092019\InchesToCentimeters\bin\Debug\netcoreapp3.0\InchesToCentimeters.runtimeconfig.dev.json
+D:\Learning\C#Basic\ProgramingBasic07092019\InchesToCentimeters\bin\Debug\netcoreapp3.0\InchesToCentimeters.dll
+D:\Learning\C#Basic\ProgramingBasic07092019\InchesToCentimeters\bin\Debug\netcoreapp3.0\InchesToCentimeters.pdb
+D:\Learning\C#Basic\ProgramingBasic07092019\InchesToCentimeters\obj\Debug\netcoreapp3.0\InchesToCentimeters.csprojAssemblyReference.cache
+D:\Learning\C#Basic\ProgramingBasic07092019\InchesToCentimeters\obj\Debug\netcoreapp3.0\InchesToCentimeters.csproj.CoreCompileInputs.cache
+D:\Learning\C#Basic\ProgramingBasic07092019\InchesToCentimeters\obj\Debug\netcoreapp3.0\InchesToCentimeters.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\ProgramingBasic07092019\InchesToCentimeters\obj\Debug\netcoreapp3.0\InchesToCentimeters.AssemblyInfo.cs
+D:\Learning\C#Basic\ProgramingBasic07092019\InchesToCentimeters\obj\Debug\netcoreapp3.0\InchesToCentimeters.dll
+D:\Learning\C#Basic\ProgramingBasic07092019\InchesToCentimeters\obj\Debug\netcoreapp3.0\InchesToCentimeters.pdb

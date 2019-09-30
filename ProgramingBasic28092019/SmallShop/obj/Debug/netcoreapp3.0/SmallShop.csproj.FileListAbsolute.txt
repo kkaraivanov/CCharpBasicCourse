@@ -1,0 +1,11 @@
+D:\Learning\C#Basic\ProgramingBasic28092019\SmallShop\bin\Debug\netcoreapp3.0\SmallShop.exe
+D:\Learning\C#Basic\ProgramingBasic28092019\SmallShop\bin\Debug\netcoreapp3.0\SmallShop.deps.json
+D:\Learning\C#Basic\ProgramingBasic28092019\SmallShop\bin\Debug\netcoreapp3.0\SmallShop.runtimeconfig.json
+D:\Learning\C#Basic\ProgramingBasic28092019\SmallShop\bin\Debug\netcoreapp3.0\SmallShop.runtimeconfig.dev.json
+D:\Learning\C#Basic\ProgramingBasic28092019\SmallShop\bin\Debug\netcoreapp3.0\SmallShop.dll
+D:\Learning\C#Basic\ProgramingBasic28092019\SmallShop\bin\Debug\netcoreapp3.0\SmallShop.pdb
+D:\Learning\C#Basic\ProgramingBasic28092019\SmallShop\obj\Debug\netcoreapp3.0\SmallShop.csprojAssemblyReference.cache
+D:\Learning\C#Basic\ProgramingBasic28092019\SmallShop\obj\Debug\netcoreapp3.0\SmallShop.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\ProgramingBasic28092019\SmallShop\obj\Debug\netcoreapp3.0\SmallShop.AssemblyInfo.cs
+D:\Learning\C#Basic\ProgramingBasic28092019\SmallShop\obj\Debug\netcoreapp3.0\SmallShop.dll
+D:\Learning\C#Basic\ProgramingBasic28092019\SmallShop\obj\Debug\netcoreapp3.0\SmallShop.pdb

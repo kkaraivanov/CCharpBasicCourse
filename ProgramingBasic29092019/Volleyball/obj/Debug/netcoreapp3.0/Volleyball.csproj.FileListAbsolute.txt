@@ -1,0 +1,11 @@
+D:\Learning\C#Basic\ProgramingBasic29092019\Volleyball\bin\Debug\netcoreapp3.0\Volleyball.exe
+D:\Learning\C#Basic\ProgramingBasic29092019\Volleyball\bin\Debug\netcoreapp3.0\Volleyball.deps.json
+D:\Learning\C#Basic\ProgramingBasic29092019\Volleyball\bin\Debug\netcoreapp3.0\Volleyball.runtimeconfig.json
+D:\Learning\C#Basic\ProgramingBasic29092019\Volleyball\bin\Debug\netcoreapp3.0\Volleyball.runtimeconfig.dev.json
+D:\Learning\C#Basic\ProgramingBasic29092019\Volleyball\bin\Debug\netcoreapp3.0\Volleyball.dll
+D:\Learning\C#Basic\ProgramingBasic29092019\Volleyball\bin\Debug\netcoreapp3.0\Volleyball.pdb
+D:\Learning\C#Basic\ProgramingBasic29092019\Volleyball\obj\Debug\netcoreapp3.0\Volleyball.csprojAssemblyReference.cache
+D:\Learning\C#Basic\ProgramingBasic29092019\Volleyball\obj\Debug\netcoreapp3.0\Volleyball.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\ProgramingBasic29092019\Volleyball\obj\Debug\netcoreapp3.0\Volleyball.AssemblyInfo.cs
+D:\Learning\C#Basic\ProgramingBasic29092019\Volleyball\obj\Debug\netcoreapp3.0\Volleyball.dll
+D:\Learning\C#Basic\ProgramingBasic29092019\Volleyball\obj\Debug\netcoreapp3.0\Volleyball.pdb

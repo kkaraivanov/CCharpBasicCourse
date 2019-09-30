@@ -1,0 +1,11 @@
+D:\Learning\C#Basic\ProgramingBasic29092019\NewHouse\bin\Debug\netcoreapp3.0\NewHouse.exe
+D:\Learning\C#Basic\ProgramingBasic29092019\NewHouse\bin\Debug\netcoreapp3.0\NewHouse.deps.json
+D:\Learning\C#Basic\ProgramingBasic29092019\NewHouse\bin\Debug\netcoreapp3.0\NewHouse.runtimeconfig.json
+D:\Learning\C#Basic\ProgramingBasic29092019\NewHouse\bin\Debug\netcoreapp3.0\NewHouse.runtimeconfig.dev.json
+D:\Learning\C#Basic\ProgramingBasic29092019\NewHouse\bin\Debug\netcoreapp3.0\NewHouse.dll
+D:\Learning\C#Basic\ProgramingBasic29092019\NewHouse\bin\Debug\netcoreapp3.0\NewHouse.pdb
+D:\Learning\C#Basic\ProgramingBasic29092019\NewHouse\obj\Debug\netcoreapp3.0\NewHouse.csprojAssemblyReference.cache
+D:\Learning\C#Basic\ProgramingBasic29092019\NewHouse\obj\Debug\netcoreapp3.0\NewHouse.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\ProgramingBasic29092019\NewHouse\obj\Debug\netcoreapp3.0\NewHouse.AssemblyInfo.cs
+D:\Learning\C#Basic\ProgramingBasic29092019\NewHouse\obj\Debug\netcoreapp3.0\NewHouse.dll
+D:\Learning\C#Basic\ProgramingBasic29092019\NewHouse\obj\Debug\netcoreapp3.0\NewHouse.pdb

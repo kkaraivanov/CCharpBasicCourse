@@ -1,0 +1,12 @@
+D:\Learning\C#Basic\ProgramingBasics15092019\WorldSwimmingRecord\bin\Debug\netcoreapp3.0\WorldSwimmingRecord.exe
+D:\Learning\C#Basic\ProgramingBasics15092019\WorldSwimmingRecord\bin\Debug\netcoreapp3.0\WorldSwimmingRecord.deps.json
+D:\Learning\C#Basic\ProgramingBasics15092019\WorldSwimmingRecord\bin\Debug\netcoreapp3.0\WorldSwimmingRecord.runtimeconfig.json
+D:\Learning\C#Basic\ProgramingBasics15092019\WorldSwimmingRecord\bin\Debug\netcoreapp3.0\WorldSwimmingRecord.runtimeconfig.dev.json
+D:\Learning\C#Basic\ProgramingBasics15092019\WorldSwimmingRecord\bin\Debug\netcoreapp3.0\WorldSwimmingRecord.dll
+D:\Learning\C#Basic\ProgramingBasics15092019\WorldSwimmingRecord\bin\Debug\netcoreapp3.0\WorldSwimmingRecord.pdb
+D:\Learning\C#Basic\ProgramingBasics15092019\WorldSwimmingRecord\obj\Debug\netcoreapp3.0\WorldSwimmingRecord.csprojAssemblyReference.cache
+D:\Learning\C#Basic\ProgramingBasics15092019\WorldSwimmingRecord\obj\Debug\netcoreapp3.0\WorldSwimmingRecord.csproj.CoreCompileInputs.cache
+D:\Learning\C#Basic\ProgramingBasics15092019\WorldSwimmingRecord\obj\Debug\netcoreapp3.0\WorldSwimmingRecord.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\ProgramingBasics15092019\WorldSwimmingRecord\obj\Debug\netcoreapp3.0\WorldSwimmingRecord.AssemblyInfo.cs
+D:\Learning\C#Basic\ProgramingBasics15092019\WorldSwimmingRecord\obj\Debug\netcoreapp3.0\WorldSwimmingRecord.dll
+D:\Learning\C#Basic\ProgramingBasics15092019\WorldSwimmingRecord\obj\Debug\netcoreapp3.0\WorldSwimmingRecord.pdb

@@ -1,0 +1,11 @@
+D:\Learning\C#Basic\ProgramingBasic29092019\OperationsBetweenNumbers\bin\Debug\netcoreapp3.0\OperationsBetweenNumbers.exe
+D:\Learning\C#Basic\ProgramingBasic29092019\OperationsBetweenNumbers\bin\Debug\netcoreapp3.0\OperationsBetweenNumbers.deps.json
+D:\Learning\C#Basic\ProgramingBasic29092019\OperationsBetweenNumbers\bin\Debug\netcoreapp3.0\OperationsBetweenNumbers.runtimeconfig.json
+D:\Learning\C#Basic\ProgramingBasic29092019\OperationsBetweenNumbers\bin\Debug\netcoreapp3.0\OperationsBetweenNumbers.runtimeconfig.dev.json
+D:\Learning\C#Basic\ProgramingBasic29092019\OperationsBetweenNumbers\bin\Debug\netcoreapp3.0\OperationsBetweenNumbers.dll
+D:\Learning\C#Basic\ProgramingBasic29092019\OperationsBetweenNumbers\bin\Debug\netcoreapp3.0\OperationsBetweenNumbers.pdb
+D:\Learning\C#Basic\ProgramingBasic29092019\OperationsBetweenNumbers\obj\Debug\netcoreapp3.0\OperationsBetweenNumbers.csprojAssemblyReference.cache
+D:\Learning\C#Basic\ProgramingBasic29092019\OperationsBetweenNumbers\obj\Debug\netcoreapp3.0\OperationsBetweenNumbers.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\ProgramingBasic29092019\OperationsBetweenNumbers\obj\Debug\netcoreapp3.0\OperationsBetweenNumbers.AssemblyInfo.cs
+D:\Learning\C#Basic\ProgramingBasic29092019\OperationsBetweenNumbers\obj\Debug\netcoreapp3.0\OperationsBetweenNumbers.dll
+D:\Learning\C#Basic\ProgramingBasic29092019\OperationsBetweenNumbers\obj\Debug\netcoreapp3.0\OperationsBetweenNumbers.pdb

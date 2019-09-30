@@ -1,0 +1,11 @@
+D:\Learning\C#Basic\ProgramingBasic07092019\FishTank\bin\Debug\netcoreapp3.0\FishTank.exe
+D:\Learning\C#Basic\ProgramingBasic07092019\FishTank\bin\Debug\netcoreapp3.0\FishTank.deps.json
+D:\Learning\C#Basic\ProgramingBasic07092019\FishTank\bin\Debug\netcoreapp3.0\FishTank.runtimeconfig.json
+D:\Learning\C#Basic\ProgramingBasic07092019\FishTank\bin\Debug\netcoreapp3.0\FishTank.runtimeconfig.dev.json
+D:\Learning\C#Basic\ProgramingBasic07092019\FishTank\bin\Debug\netcoreapp3.0\FishTank.dll
+D:\Learning\C#Basic\ProgramingBasic07092019\FishTank\bin\Debug\netcoreapp3.0\FishTank.pdb
+D:\Learning\C#Basic\ProgramingBasic07092019\FishTank\obj\Debug\netcoreapp3.0\FishTank.csproj.CoreCompileInputs.cache
+D:\Learning\C#Basic\ProgramingBasic07092019\FishTank\obj\Debug\netcoreapp3.0\FishTank.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\ProgramingBasic07092019\FishTank\obj\Debug\netcoreapp3.0\FishTank.AssemblyInfo.cs
+D:\Learning\C#Basic\ProgramingBasic07092019\FishTank\obj\Debug\netcoreapp3.0\FishTank.dll
+D:\Learning\C#Basic\ProgramingBasic07092019\FishTank\obj\Debug\netcoreapp3.0\FishTank.pdb

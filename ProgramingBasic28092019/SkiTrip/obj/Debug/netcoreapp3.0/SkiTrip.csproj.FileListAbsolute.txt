@@ -1,0 +1,11 @@
+D:\Learning\C#Basic\ProgramingBasic28092019\SkiTrip\bin\Debug\netcoreapp3.0\SkiTrip.exe
+D:\Learning\C#Basic\ProgramingBasic28092019\SkiTrip\bin\Debug\netcoreapp3.0\SkiTrip.deps.json
+D:\Learning\C#Basic\ProgramingBasic28092019\SkiTrip\bin\Debug\netcoreapp3.0\SkiTrip.runtimeconfig.json
+D:\Learning\C#Basic\ProgramingBasic28092019\SkiTrip\bin\Debug\netcoreapp3.0\SkiTrip.runtimeconfig.dev.json
+D:\Learning\C#Basic\ProgramingBasic28092019\SkiTrip\bin\Debug\netcoreapp3.0\SkiTrip.dll
+D:\Learning\C#Basic\ProgramingBasic28092019\SkiTrip\bin\Debug\netcoreapp3.0\SkiTrip.pdb
+D:\Learning\C#Basic\ProgramingBasic28092019\SkiTrip\obj\Debug\netcoreapp3.0\SkiTrip.csprojAssemblyReference.cache
+D:\Learning\C#Basic\ProgramingBasic28092019\SkiTrip\obj\Debug\netcoreapp3.0\SkiTrip.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\ProgramingBasic28092019\SkiTrip\obj\Debug\netcoreapp3.0\SkiTrip.AssemblyInfo.cs
+D:\Learning\C#Basic\ProgramingBasic28092019\SkiTrip\obj\Debug\netcoreapp3.0\SkiTrip.dll
+D:\Learning\C#Basic\ProgramingBasic28092019\SkiTrip\obj\Debug\netcoreapp3.0\SkiTrip.pdb

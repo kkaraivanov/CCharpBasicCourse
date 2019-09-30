@@ -1,0 +1,11 @@
+D:\Learning\C#Basic\ProgramingBasic07092019\GreetingByName\bin\Debug\netcoreapp3.0\GreetingByName.exe
+D:\Learning\C#Basic\ProgramingBasic07092019\GreetingByName\bin\Debug\netcoreapp3.0\GreetingByName.deps.json
+D:\Learning\C#Basic\ProgramingBasic07092019\GreetingByName\bin\Debug\netcoreapp3.0\GreetingByName.runtimeconfig.json
+D:\Learning\C#Basic\ProgramingBasic07092019\GreetingByName\bin\Debug\netcoreapp3.0\GreetingByName.runtimeconfig.dev.json
+D:\Learning\C#Basic\ProgramingBasic07092019\GreetingByName\bin\Debug\netcoreapp3.0\GreetingByName.dll
+D:\Learning\C#Basic\ProgramingBasic07092019\GreetingByName\bin\Debug\netcoreapp3.0\GreetingByName.pdb
+D:\Learning\C#Basic\ProgramingBasic07092019\GreetingByName\obj\Debug\netcoreapp3.0\GreetingByName.csproj.CoreCompileInputs.cache
+D:\Learning\C#Basic\ProgramingBasic07092019\GreetingByName\obj\Debug\netcoreapp3.0\GreetingByName.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\ProgramingBasic07092019\GreetingByName\obj\Debug\netcoreapp3.0\GreetingByName.AssemblyInfo.cs
+D:\Learning\C#Basic\ProgramingBasic07092019\GreetingByName\obj\Debug\netcoreapp3.0\GreetingByName.dll
+D:\Learning\C#Basic\ProgramingBasic07092019\GreetingByName\obj\Debug\netcoreapp3.0\GreetingByName.pdb

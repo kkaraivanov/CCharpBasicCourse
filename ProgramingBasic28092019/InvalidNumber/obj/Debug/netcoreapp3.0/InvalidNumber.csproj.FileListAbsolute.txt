@@ -1,0 +1,10 @@
+D:\Learning\C#Basic\ProgramingBasic28092019\InvalidNumber\bin\Debug\netcoreapp3.0\InvalidNumber.exe
+D:\Learning\C#Basic\ProgramingBasic28092019\InvalidNumber\bin\Debug\netcoreapp3.0\InvalidNumber.deps.json
+D:\Learning\C#Basic\ProgramingBasic28092019\InvalidNumber\bin\Debug\netcoreapp3.0\InvalidNumber.runtimeconfig.json
+D:\Learning\C#Basic\ProgramingBasic28092019\InvalidNumber\bin\Debug\netcoreapp3.0\InvalidNumber.runtimeconfig.dev.json
+D:\Learning\C#Basic\ProgramingBasic28092019\InvalidNumber\bin\Debug\netcoreapp3.0\InvalidNumber.dll
+D:\Learning\C#Basic\ProgramingBasic28092019\InvalidNumber\bin\Debug\netcoreapp3.0\InvalidNumber.pdb
+D:\Learning\C#Basic\ProgramingBasic28092019\InvalidNumber\obj\Debug\netcoreapp3.0\InvalidNumber.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\ProgramingBasic28092019\InvalidNumber\obj\Debug\netcoreapp3.0\InvalidNumber.AssemblyInfo.cs
+D:\Learning\C#Basic\ProgramingBasic28092019\InvalidNumber\obj\Debug\netcoreapp3.0\InvalidNumber.dll
+D:\Learning\C#Basic\ProgramingBasic28092019\InvalidNumber\obj\Debug\netcoreapp3.0\InvalidNumber.pdb
