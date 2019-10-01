@@ -1,0 +1,10 @@
+D:\Learning\C#Basic\ProgramingBasicWhileLoopLab\Graduation2\bin\Debug\netcoreapp3.0\Graduation2.exe
+D:\Learning\C#Basic\ProgramingBasicWhileLoopLab\Graduation2\bin\Debug\netcoreapp3.0\Graduation2.deps.json
+D:\Learning\C#Basic\ProgramingBasicWhileLoopLab\Graduation2\bin\Debug\netcoreapp3.0\Graduation2.runtimeconfig.json
+D:\Learning\C#Basic\ProgramingBasicWhileLoopLab\Graduation2\bin\Debug\netcoreapp3.0\Graduation2.runtimeconfig.dev.json
+D:\Learning\C#Basic\ProgramingBasicWhileLoopLab\Graduation2\bin\Debug\netcoreapp3.0\Graduation2.dll
+D:\Learning\C#Basic\ProgramingBasicWhileLoopLab\Graduation2\bin\Debug\netcoreapp3.0\Graduation2.pdb
+D:\Learning\C#Basic\ProgramingBasicWhileLoopLab\Graduation2\obj\Debug\netcoreapp3.0\Graduation2.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\ProgramingBasicWhileLoopLab\Graduation2\obj\Debug\netcoreapp3.0\Graduation2.AssemblyInfo.cs
+D:\Learning\C#Basic\ProgramingBasicWhileLoopLab\Graduation2\obj\Debug\netcoreapp3.0\Graduation2.dll
+D:\Learning\C#Basic\ProgramingBasicWhileLoopLab\Graduation2\obj\Debug\netcoreapp3.0\Graduation2.pdb

@@ -1,0 +1,11 @@
+D:\Learning\C#Basic\ProgramingBasicWhileLoopLab\Moving\bin\Debug\netcoreapp3.0\Moving.exe
+D:\Learning\C#Basic\ProgramingBasicWhileLoopLab\Moving\bin\Debug\netcoreapp3.0\Moving.deps.json
+D:\Learning\C#Basic\ProgramingBasicWhileLoopLab\Moving\bin\Debug\netcoreapp3.0\Moving.runtimeconfig.json
+D:\Learning\C#Basic\ProgramingBasicWhileLoopLab\Moving\bin\Debug\netcoreapp3.0\Moving.runtimeconfig.dev.json
+D:\Learning\C#Basic\ProgramingBasicWhileLoopLab\Moving\bin\Debug\netcoreapp3.0\Moving.dll
+D:\Learning\C#Basic\ProgramingBasicWhileLoopLab\Moving\bin\Debug\netcoreapp3.0\Moving.pdb
+D:\Learning\C#Basic\ProgramingBasicWhileLoopLab\Moving\obj\Debug\netcoreapp3.0\Moving.csprojAssemblyReference.cache
+D:\Learning\C#Basic\ProgramingBasicWhileLoopLab\Moving\obj\Debug\netcoreapp3.0\Moving.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\ProgramingBasicWhileLoopLab\Moving\obj\Debug\netcoreapp3.0\Moving.AssemblyInfo.cs
+D:\Learning\C#Basic\ProgramingBasicWhileLoopLab\Moving\obj\Debug\netcoreapp3.0\Moving.dll
+D:\Learning\C#Basic\ProgramingBasicWhileLoopLab\Moving\obj\Debug\netcoreapp3.0\Moving.pdb

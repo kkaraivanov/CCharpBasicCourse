@@ -1,0 +1,10 @@
+D:\Learning\C#Basic\ProgramingBasicWhileLoopLab\MinNumber\bin\Debug\netcoreapp3.0\MinNumber.exe
+D:\Learning\C#Basic\ProgramingBasicWhileLoopLab\MinNumber\bin\Debug\netcoreapp3.0\MinNumber.deps.json
+D:\Learning\C#Basic\ProgramingBasicWhileLoopLab\MinNumber\bin\Debug\netcoreapp3.0\MinNumber.runtimeconfig.json
+D:\Learning\C#Basic\ProgramingBasicWhileLoopLab\MinNumber\bin\Debug\netcoreapp3.0\MinNumber.runtimeconfig.dev.json
+D:\Learning\C#Basic\ProgramingBasicWhileLoopLab\MinNumber\bin\Debug\netcoreapp3.0\MinNumber.dll
+D:\Learning\C#Basic\ProgramingBasicWhileLoopLab\MinNumber\bin\Debug\netcoreapp3.0\MinNumber.pdb
+D:\Learning\C#Basic\ProgramingBasicWhileLoopLab\MinNumber\obj\Debug\netcoreapp3.0\MinNumber.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\ProgramingBasicWhileLoopLab\MinNumber\obj\Debug\netcoreapp3.0\MinNumber.AssemblyInfo.cs
+D:\Learning\C#Basic\ProgramingBasicWhileLoopLab\MinNumber\obj\Debug\netcoreapp3.0\MinNumber.dll
+D:\Learning\C#Basic\ProgramingBasicWhileLoopLab\MinNumber\obj\Debug\netcoreapp3.0\MinNumber.pdb

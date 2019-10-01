@@ -1,0 +1,11 @@
+D:\Learning\C#Basic\ProgramingBasicWhileLoopLab\AccountBalance\bin\Debug\netcoreapp3.0\AccountBalance.exe
+D:\Learning\C#Basic\ProgramingBasicWhileLoopLab\AccountBalance\bin\Debug\netcoreapp3.0\AccountBalance.deps.json
+D:\Learning\C#Basic\ProgramingBasicWhileLoopLab\AccountBalance\bin\Debug\netcoreapp3.0\AccountBalance.runtimeconfig.json
+D:\Learning\C#Basic\ProgramingBasicWhileLoopLab\AccountBalance\bin\Debug\netcoreapp3.0\AccountBalance.runtimeconfig.dev.json
+D:\Learning\C#Basic\ProgramingBasicWhileLoopLab\AccountBalance\bin\Debug\netcoreapp3.0\AccountBalance.dll
+D:\Learning\C#Basic\ProgramingBasicWhileLoopLab\AccountBalance\bin\Debug\netcoreapp3.0\AccountBalance.pdb
+D:\Learning\C#Basic\ProgramingBasicWhileLoopLab\AccountBalance\obj\Debug\netcoreapp3.0\AccountBalance.csprojAssemblyReference.cache
+D:\Learning\C#Basic\ProgramingBasicWhileLoopLab\AccountBalance\obj\Debug\netcoreapp3.0\AccountBalance.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\ProgramingBasicWhileLoopLab\AccountBalance\obj\Debug\netcoreapp3.0\AccountBalance.AssemblyInfo.cs
+D:\Learning\C#Basic\ProgramingBasicWhileLoopLab\AccountBalance\obj\Debug\netcoreapp3.0\AccountBalance.dll
+D:\Learning\C#Basic\ProgramingBasicWhileLoopLab\AccountBalance\obj\Debug\netcoreapp3.0\AccountBalance.pdb
