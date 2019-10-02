@@ -1,0 +1,11 @@
+D:\Learning\C#Basic\BonusExercises\12Harvest\bin\Debug\netcoreapp3.0\12Harvest.exe
+D:\Learning\C#Basic\BonusExercises\12Harvest\bin\Debug\netcoreapp3.0\12Harvest.deps.json
+D:\Learning\C#Basic\BonusExercises\12Harvest\bin\Debug\netcoreapp3.0\12Harvest.runtimeconfig.json
+D:\Learning\C#Basic\BonusExercises\12Harvest\bin\Debug\netcoreapp3.0\12Harvest.runtimeconfig.dev.json
+D:\Learning\C#Basic\BonusExercises\12Harvest\bin\Debug\netcoreapp3.0\12Harvest.dll
+D:\Learning\C#Basic\BonusExercises\12Harvest\bin\Debug\netcoreapp3.0\12Harvest.pdb
+D:\Learning\C#Basic\BonusExercises\12Harvest\obj\Debug\netcoreapp3.0\12Harvest.csprojAssemblyReference.cache
+D:\Learning\C#Basic\BonusExercises\12Harvest\obj\Debug\netcoreapp3.0\12Harvest.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\BonusExercises\12Harvest\obj\Debug\netcoreapp3.0\12Harvest.AssemblyInfo.cs
+D:\Learning\C#Basic\BonusExercises\12Harvest\obj\Debug\netcoreapp3.0\12Harvest.dll
+D:\Learning\C#Basic\BonusExercises\12Harvest\obj\Debug\netcoreapp3.0\12Harvest.pdb

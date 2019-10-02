@@ -1,0 +1,10 @@
+D:\Learning\C#Basic\BonusExercises\10PipesInPool\bin\Debug\netcoreapp3.0\10PipesInPool.exe
+D:\Learning\C#Basic\BonusExercises\10PipesInPool\bin\Debug\netcoreapp3.0\10PipesInPool.deps.json
+D:\Learning\C#Basic\BonusExercises\10PipesInPool\bin\Debug\netcoreapp3.0\10PipesInPool.runtimeconfig.json
+D:\Learning\C#Basic\BonusExercises\10PipesInPool\bin\Debug\netcoreapp3.0\10PipesInPool.runtimeconfig.dev.json
+D:\Learning\C#Basic\BonusExercises\10PipesInPool\bin\Debug\netcoreapp3.0\10PipesInPool.dll
+D:\Learning\C#Basic\BonusExercises\10PipesInPool\bin\Debug\netcoreapp3.0\10PipesInPool.pdb
+D:\Learning\C#Basic\BonusExercises\10PipesInPool\obj\Debug\netcoreapp3.0\10PipesInPool.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\BonusExercises\10PipesInPool\obj\Debug\netcoreapp3.0\10PipesInPool.AssemblyInfo.cs
+D:\Learning\C#Basic\BonusExercises\10PipesInPool\obj\Debug\netcoreapp3.0\10PipesInPool.dll
+D:\Learning\C#Basic\BonusExercises\10PipesInPool\obj\Debug\netcoreapp3.0\10PipesInPool.pdb

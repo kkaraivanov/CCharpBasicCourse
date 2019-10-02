@@ -1,0 +1,11 @@
+D:\Learning\C#Basic\BonusExercises\18FuelTankPart2\bin\Debug\netcoreapp3.0\18FuelTankPart2.exe
+D:\Learning\C#Basic\BonusExercises\18FuelTankPart2\bin\Debug\netcoreapp3.0\18FuelTankPart2.deps.json
+D:\Learning\C#Basic\BonusExercises\18FuelTankPart2\bin\Debug\netcoreapp3.0\18FuelTankPart2.runtimeconfig.json
+D:\Learning\C#Basic\BonusExercises\18FuelTankPart2\bin\Debug\netcoreapp3.0\18FuelTankPart2.runtimeconfig.dev.json
+D:\Learning\C#Basic\BonusExercises\18FuelTankPart2\bin\Debug\netcoreapp3.0\18FuelTankPart2.dll
+D:\Learning\C#Basic\BonusExercises\18FuelTankPart2\bin\Debug\netcoreapp3.0\18FuelTankPart2.pdb
+D:\Learning\C#Basic\BonusExercises\18FuelTankPart2\obj\Debug\netcoreapp3.0\18FuelTankPart2.csprojAssemblyReference.cache
+D:\Learning\C#Basic\BonusExercises\18FuelTankPart2\obj\Debug\netcoreapp3.0\18FuelTankPart2.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\BonusExercises\18FuelTankPart2\obj\Debug\netcoreapp3.0\18FuelTankPart2.AssemblyInfo.cs
+D:\Learning\C#Basic\BonusExercises\18FuelTankPart2\obj\Debug\netcoreapp3.0\18FuelTankPart2.dll
+D:\Learning\C#Basic\BonusExercises\18FuelTankPart2\obj\Debug\netcoreapp3.0\18FuelTankPart2.pdb

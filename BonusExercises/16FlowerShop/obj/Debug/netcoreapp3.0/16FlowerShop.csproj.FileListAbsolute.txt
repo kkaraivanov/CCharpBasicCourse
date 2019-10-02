@@ -1,0 +1,11 @@
+D:\Learning\C#Basic\BonusExercises\16FlowerShop\bin\Debug\netcoreapp3.0\16FlowerShop.exe
+D:\Learning\C#Basic\BonusExercises\16FlowerShop\bin\Debug\netcoreapp3.0\16FlowerShop.deps.json
+D:\Learning\C#Basic\BonusExercises\16FlowerShop\bin\Debug\netcoreapp3.0\16FlowerShop.runtimeconfig.json
+D:\Learning\C#Basic\BonusExercises\16FlowerShop\bin\Debug\netcoreapp3.0\16FlowerShop.runtimeconfig.dev.json
+D:\Learning\C#Basic\BonusExercises\16FlowerShop\bin\Debug\netcoreapp3.0\16FlowerShop.dll
+D:\Learning\C#Basic\BonusExercises\16FlowerShop\bin\Debug\netcoreapp3.0\16FlowerShop.pdb
+D:\Learning\C#Basic\BonusExercises\16FlowerShop\obj\Debug\netcoreapp3.0\16FlowerShop.csprojAssemblyReference.cache
+D:\Learning\C#Basic\BonusExercises\16FlowerShop\obj\Debug\netcoreapp3.0\16FlowerShop.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\BonusExercises\16FlowerShop\obj\Debug\netcoreapp3.0\16FlowerShop.AssemblyInfo.cs
+D:\Learning\C#Basic\BonusExercises\16FlowerShop\obj\Debug\netcoreapp3.0\16FlowerShop.dll
+D:\Learning\C#Basic\BonusExercises\16FlowerShop\obj\Debug\netcoreapp3.0\16FlowerShop.pdb

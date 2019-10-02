@@ -1,0 +1,11 @@
+D:\Learning\C#Basic\BonusExercises\13TransportPrice\bin\Debug\netcoreapp3.0\13TransportPrice.exe
+D:\Learning\C#Basic\BonusExercises\13TransportPrice\bin\Debug\netcoreapp3.0\13TransportPrice.deps.json
+D:\Learning\C#Basic\BonusExercises\13TransportPrice\bin\Debug\netcoreapp3.0\13TransportPrice.runtimeconfig.json
+D:\Learning\C#Basic\BonusExercises\13TransportPrice\bin\Debug\netcoreapp3.0\13TransportPrice.runtimeconfig.dev.json
+D:\Learning\C#Basic\BonusExercises\13TransportPrice\bin\Debug\netcoreapp3.0\13TransportPrice.dll
+D:\Learning\C#Basic\BonusExercises\13TransportPrice\bin\Debug\netcoreapp3.0\13TransportPrice.pdb
+D:\Learning\C#Basic\BonusExercises\13TransportPrice\obj\Debug\netcoreapp3.0\13TransportPrice.csprojAssemblyReference.cache
+D:\Learning\C#Basic\BonusExercises\13TransportPrice\obj\Debug\netcoreapp3.0\13TransportPrice.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\BonusExercises\13TransportPrice\obj\Debug\netcoreapp3.0\13TransportPrice.AssemblyInfo.cs
+D:\Learning\C#Basic\BonusExercises\13TransportPrice\obj\Debug\netcoreapp3.0\13TransportPrice.dll
+D:\Learning\C#Basic\BonusExercises\13TransportPrice\obj\Debug\netcoreapp3.0\13TransportPrice.pdb

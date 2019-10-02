@@ -1,0 +1,10 @@
+D:\Learning\C#Basic\BonusExercises\15Pets\bin\Debug\netcoreapp3.0\15Pets.exe
+D:\Learning\C#Basic\BonusExercises\15Pets\bin\Debug\netcoreapp3.0\15Pets.deps.json
+D:\Learning\C#Basic\BonusExercises\15Pets\bin\Debug\netcoreapp3.0\15Pets.runtimeconfig.json
+D:\Learning\C#Basic\BonusExercises\15Pets\bin\Debug\netcoreapp3.0\15Pets.runtimeconfig.dev.json
+D:\Learning\C#Basic\BonusExercises\15Pets\bin\Debug\netcoreapp3.0\15Pets.dll
+D:\Learning\C#Basic\BonusExercises\15Pets\bin\Debug\netcoreapp3.0\15Pets.pdb
+D:\Learning\C#Basic\BonusExercises\15Pets\obj\Debug\netcoreapp3.0\15Pets.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\BonusExercises\15Pets\obj\Debug\netcoreapp3.0\15Pets.AssemblyInfo.cs
+D:\Learning\C#Basic\BonusExercises\15Pets\obj\Debug\netcoreapp3.0\15Pets.dll
+D:\Learning\C#Basic\BonusExercises\15Pets\obj\Debug\netcoreapp3.0\15Pets.pdb

@@ -1,0 +1,10 @@
+D:\Learning\C#Basic\BonusExercises\14Firm\bin\Debug\netcoreapp3.0\14Firm.exe
+D:\Learning\C#Basic\BonusExercises\14Firm\bin\Debug\netcoreapp3.0\14Firm.deps.json
+D:\Learning\C#Basic\BonusExercises\14Firm\bin\Debug\netcoreapp3.0\14Firm.runtimeconfig.json
+D:\Learning\C#Basic\BonusExercises\14Firm\bin\Debug\netcoreapp3.0\14Firm.runtimeconfig.dev.json
+D:\Learning\C#Basic\BonusExercises\14Firm\bin\Debug\netcoreapp3.0\14Firm.dll
+D:\Learning\C#Basic\BonusExercises\14Firm\bin\Debug\netcoreapp3.0\14Firm.pdb
+D:\Learning\C#Basic\BonusExercises\14Firm\obj\Debug\netcoreapp3.0\14Firm.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\BonusExercises\14Firm\obj\Debug\netcoreapp3.0\14Firm.AssemblyInfo.cs
+D:\Learning\C#Basic\BonusExercises\14Firm\obj\Debug\netcoreapp3.0\14Firm.dll
+D:\Learning\C#Basic\BonusExercises\14Firm\obj\Debug\netcoreapp3.0\14Firm.pdb

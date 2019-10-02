@@ -1,0 +1,11 @@
+D:\Learning\C#Basic\BonusExercises\11SleepyTomCat\bin\Debug\netcoreapp3.0\11SleepyTomCat.exe
+D:\Learning\C#Basic\BonusExercises\11SleepyTomCat\bin\Debug\netcoreapp3.0\11SleepyTomCat.deps.json
+D:\Learning\C#Basic\BonusExercises\11SleepyTomCat\bin\Debug\netcoreapp3.0\11SleepyTomCat.runtimeconfig.json
+D:\Learning\C#Basic\BonusExercises\11SleepyTomCat\bin\Debug\netcoreapp3.0\11SleepyTomCat.runtimeconfig.dev.json
+D:\Learning\C#Basic\BonusExercises\11SleepyTomCat\bin\Debug\netcoreapp3.0\11SleepyTomCat.dll
+D:\Learning\C#Basic\BonusExercises\11SleepyTomCat\bin\Debug\netcoreapp3.0\11SleepyTomCat.pdb
+D:\Learning\C#Basic\BonusExercises\11SleepyTomCat\obj\Debug\netcoreapp3.0\11SleepyTomCat.csprojAssemblyReference.cache
+D:\Learning\C#Basic\BonusExercises\11SleepyTomCat\obj\Debug\netcoreapp3.0\11SleepyTomCat.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\BonusExercises\11SleepyTomCat\obj\Debug\netcoreapp3.0\11SleepyTomCat.AssemblyInfo.cs
+D:\Learning\C#Basic\BonusExercises\11SleepyTomCat\obj\Debug\netcoreapp3.0\11SleepyTomCat.dll
+D:\Learning\C#Basic\BonusExercises\11SleepyTomCat\obj\Debug\netcoreapp3.0\11SleepyTomCat.pdb
