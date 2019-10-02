@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Learning\\C#Basic\\BonusExercises\\13TransportPrice\\13TransportPrice.csproj",
+      "projectUniqueName": "D:\\Learning\\C#Basic\\CCharpBasicCourse\\BonusExercises\\13TransportPrice\\13TransportPrice.csproj",
       "projectName": "13TransportPrice",
-      "projectPath": "D:\\Learning\\C#Basic\\BonusExercises\\13TransportPrice\\13TransportPrice.csproj",
+      "projectPath": "D:\\Learning\\C#Basic\\CCharpBasicCourse\\BonusExercises\\13TransportPrice\\13TransportPrice.csproj",
       "packagesPath": "C:\\Users\\kosta\\.nuget\\packages\\",
-      "outputPath": "D:\\Learning\\C#Basic\\BonusExercises\\13TransportPrice\\obj\\",
+      "outputPath": "D:\\Learning\\C#Basic\\CCharpBasicCourse\\BonusExercises\\13TransportPrice\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

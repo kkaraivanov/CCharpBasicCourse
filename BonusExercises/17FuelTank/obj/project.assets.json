@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Learning\\C#Basic\\BonusExercises\\17FuelTank\\17FuelTank.csproj",
+      "projectUniqueName": "D:\\Learning\\C#Basic\\CCharpBasicCourse\\BonusExercises\\17FuelTank\\17FuelTank.csproj",
       "projectName": "17FuelTank",
-      "projectPath": "D:\\Learning\\C#Basic\\BonusExercises\\17FuelTank\\17FuelTank.csproj",
+      "projectPath": "D:\\Learning\\C#Basic\\CCharpBasicCourse\\BonusExercises\\17FuelTank\\17FuelTank.csproj",
       "packagesPath": "C:\\Users\\kosta\\.nuget\\packages\\",
-      "outputPath": "D:\\Learning\\C#Basic\\BonusExercises\\17FuelTank\\obj\\",
+      "outputPath": "D:\\Learning\\C#Basic\\CCharpBasicCourse\\BonusExercises\\17FuelTank\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

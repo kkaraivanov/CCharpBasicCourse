@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Learning\\C#Basic\\BonusExercises\\9WeatherForecastPart2\\9WeatherForecastPart2.csproj",
+      "projectUniqueName": "D:\\Learning\\C#Basic\\CCharpBasicCourse\\BonusExercises\\9WeatherForecastPart2\\9WeatherForecastPart2.csproj",
       "projectName": "9WeatherForecastPart2",
-      "projectPath": "D:\\Learning\\C#Basic\\BonusExercises\\9WeatherForecastPart2\\9WeatherForecastPart2.csproj",
+      "projectPath": "D:\\Learning\\C#Basic\\CCharpBasicCourse\\BonusExercises\\9WeatherForecastPart2\\9WeatherForecastPart2.csproj",
       "packagesPath": "C:\\Users\\kosta\\.nuget\\packages\\",
-      "outputPath": "D:\\Learning\\C#Basic\\BonusExercises\\9WeatherForecastPart2\\obj\\",
+      "outputPath": "D:\\Learning\\C#Basic\\CCharpBasicCourse\\BonusExercises\\9WeatherForecastPart2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

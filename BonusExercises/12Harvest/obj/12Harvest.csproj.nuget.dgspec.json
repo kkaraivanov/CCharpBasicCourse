@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Learning\\C#Basic\\BonusExercises\\12Harvest\\12Harvest.csproj": {}
+    "D:\\Learning\\C#Basic\\CCharpBasicCourse\\BonusExercises\\12Harvest\\12Harvest.csproj": {}
   },
   "projects": {
-    "D:\\Learning\\C#Basic\\BonusExercises\\12Harvest\\12Harvest.csproj": {
+    "D:\\Learning\\C#Basic\\CCharpBasicCourse\\BonusExercises\\12Harvest\\12Harvest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Learning\\C#Basic\\BonusExercises\\12Harvest\\12Harvest.csproj",
+        "projectUniqueName": "D:\\Learning\\C#Basic\\CCharpBasicCourse\\BonusExercises\\12Harvest\\12Harvest.csproj",
         "projectName": "12Harvest",
-        "projectPath": "D:\\Learning\\C#Basic\\BonusExercises\\12Harvest\\12Harvest.csproj",
+        "projectPath": "D:\\Learning\\C#Basic\\CCharpBasicCourse\\BonusExercises\\12Harvest\\12Harvest.csproj",
         "packagesPath": "C:\\Users\\kosta\\.nuget\\packages\\",
-        "outputPath": "D:\\Learning\\C#Basic\\BonusExercises\\12Harvest\\obj\\",
+        "outputPath": "D:\\Learning\\C#Basic\\CCharpBasicCourse\\BonusExercises\\12Harvest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
