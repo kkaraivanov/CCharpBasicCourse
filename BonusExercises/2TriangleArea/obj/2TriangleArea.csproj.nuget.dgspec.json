@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Learning\\C#Basic\\BonusExercises\\2TriangleArea\\2TriangleArea.csproj": {}
+    "D:\\Learning\\C#Basic\\CCharpBasicCourse\\BonusExercises\\2TriangleArea\\2TriangleArea.csproj": {}
   },
   "projects": {
-    "D:\\Learning\\C#Basic\\BonusExercises\\2TriangleArea\\2TriangleArea.csproj": {
+    "D:\\Learning\\C#Basic\\CCharpBasicCourse\\BonusExercises\\2TriangleArea\\2TriangleArea.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Learning\\C#Basic\\BonusExercises\\2TriangleArea\\2TriangleArea.csproj",
+        "projectUniqueName": "D:\\Learning\\C#Basic\\CCharpBasicCourse\\BonusExercises\\2TriangleArea\\2TriangleArea.csproj",
         "projectName": "2TriangleArea",
-        "projectPath": "D:\\Learning\\C#Basic\\BonusExercises\\2TriangleArea\\2TriangleArea.csproj",
+        "projectPath": "D:\\Learning\\C#Basic\\CCharpBasicCourse\\BonusExercises\\2TriangleArea\\2TriangleArea.csproj",
         "packagesPath": "C:\\Users\\kosta\\.nuget\\packages\\",
-        "outputPath": "D:\\Learning\\C#Basic\\BonusExercises\\2TriangleArea\\obj\\",
+        "outputPath": "D:\\Learning\\C#Basic\\CCharpBasicCourse\\BonusExercises\\2TriangleArea\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
