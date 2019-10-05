@@ -1,0 +1,11 @@
+D:\Learning\C#Basic\ProgramingBasicWhileLoopExercise\OldBooks\bin\Debug\netcoreapp3.0\OldBooks.exe
+D:\Learning\C#Basic\ProgramingBasicWhileLoopExercise\OldBooks\bin\Debug\netcoreapp3.0\OldBooks.deps.json
+D:\Learning\C#Basic\ProgramingBasicWhileLoopExercise\OldBooks\bin\Debug\netcoreapp3.0\OldBooks.runtimeconfig.json
+D:\Learning\C#Basic\ProgramingBasicWhileLoopExercise\OldBooks\bin\Debug\netcoreapp3.0\OldBooks.runtimeconfig.dev.json
+D:\Learning\C#Basic\ProgramingBasicWhileLoopExercise\OldBooks\bin\Debug\netcoreapp3.0\OldBooks.dll
+D:\Learning\C#Basic\ProgramingBasicWhileLoopExercise\OldBooks\bin\Debug\netcoreapp3.0\OldBooks.pdb
+D:\Learning\C#Basic\ProgramingBasicWhileLoopExercise\OldBooks\obj\Debug\netcoreapp3.0\OldBooks.csprojAssemblyReference.cache
+D:\Learning\C#Basic\ProgramingBasicWhileLoopExercise\OldBooks\obj\Debug\netcoreapp3.0\OldBooks.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\ProgramingBasicWhileLoopExercise\OldBooks\obj\Debug\netcoreapp3.0\OldBooks.AssemblyInfo.cs
+D:\Learning\C#Basic\ProgramingBasicWhileLoopExercise\OldBooks\obj\Debug\netcoreapp3.0\OldBooks.dll
+D:\Learning\C#Basic\ProgramingBasicWhileLoopExercise\OldBooks\obj\Debug\netcoreapp3.0\OldBooks.pdb

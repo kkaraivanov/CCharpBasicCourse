@@ -1,0 +1,11 @@
+D:\Learning\C#Basic\ProgramingBasicWhileLoopExercise\Cake\bin\Debug\netcoreapp3.0\Cake.exe
+D:\Learning\C#Basic\ProgramingBasicWhileLoopExercise\Cake\bin\Debug\netcoreapp3.0\Cake.deps.json
+D:\Learning\C#Basic\ProgramingBasicWhileLoopExercise\Cake\bin\Debug\netcoreapp3.0\Cake.runtimeconfig.json
+D:\Learning\C#Basic\ProgramingBasicWhileLoopExercise\Cake\bin\Debug\netcoreapp3.0\Cake.runtimeconfig.dev.json
+D:\Learning\C#Basic\ProgramingBasicWhileLoopExercise\Cake\bin\Debug\netcoreapp3.0\Cake.dll
+D:\Learning\C#Basic\ProgramingBasicWhileLoopExercise\Cake\bin\Debug\netcoreapp3.0\Cake.pdb
+D:\Learning\C#Basic\ProgramingBasicWhileLoopExercise\Cake\obj\Debug\netcoreapp3.0\Cake.csprojAssemblyReference.cache
+D:\Learning\C#Basic\ProgramingBasicWhileLoopExercise\Cake\obj\Debug\netcoreapp3.0\Cake.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\ProgramingBasicWhileLoopExercise\Cake\obj\Debug\netcoreapp3.0\Cake.AssemblyInfo.cs
+D:\Learning\C#Basic\ProgramingBasicWhileLoopExercise\Cake\obj\Debug\netcoreapp3.0\Cake.dll
+D:\Learning\C#Basic\ProgramingBasicWhileLoopExercise\Cake\obj\Debug\netcoreapp3.0\Cake.pdb

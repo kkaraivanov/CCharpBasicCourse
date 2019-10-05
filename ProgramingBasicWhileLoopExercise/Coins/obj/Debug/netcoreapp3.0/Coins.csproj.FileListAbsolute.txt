@@ -1,0 +1,11 @@
+D:\Learning\C#Basic\ProgramingBasicWhileLoopExercise\Coins\bin\Debug\netcoreapp3.0\Coins.exe
+D:\Learning\C#Basic\ProgramingBasicWhileLoopExercise\Coins\bin\Debug\netcoreapp3.0\Coins.deps.json
+D:\Learning\C#Basic\ProgramingBasicWhileLoopExercise\Coins\bin\Debug\netcoreapp3.0\Coins.runtimeconfig.json
+D:\Learning\C#Basic\ProgramingBasicWhileLoopExercise\Coins\bin\Debug\netcoreapp3.0\Coins.runtimeconfig.dev.json
+D:\Learning\C#Basic\ProgramingBasicWhileLoopExercise\Coins\bin\Debug\netcoreapp3.0\Coins.dll
+D:\Learning\C#Basic\ProgramingBasicWhileLoopExercise\Coins\bin\Debug\netcoreapp3.0\Coins.pdb
+D:\Learning\C#Basic\ProgramingBasicWhileLoopExercise\Coins\obj\Debug\netcoreapp3.0\Coins.csprojAssemblyReference.cache
+D:\Learning\C#Basic\ProgramingBasicWhileLoopExercise\Coins\obj\Debug\netcoreapp3.0\Coins.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\ProgramingBasicWhileLoopExercise\Coins\obj\Debug\netcoreapp3.0\Coins.AssemblyInfo.cs
+D:\Learning\C#Basic\ProgramingBasicWhileLoopExercise\Coins\obj\Debug\netcoreapp3.0\Coins.dll
+D:\Learning\C#Basic\ProgramingBasicWhileLoopExercise\Coins\obj\Debug\netcoreapp3.0\Coins.pdb
