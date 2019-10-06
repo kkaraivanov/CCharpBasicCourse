@@ -3,17 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29324.140
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OldBooks", "OldBooks\OldBooks.csproj", "{442E90D1-B498-4231-BEA1-2330E55B2938}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OldBooks", "OldBooks\OldBooks.csproj", "{442E90D1-B498-4231-BEA1-2330E55B2938}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamPreparation", "ExamPreparation\ExamPreparation.csproj", "{FABE9A76-15B4-490A-91D8-CA5CDE478958}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExamPreparation", "ExamPreparation\ExamPreparation.csproj", "{FABE9A76-15B4-490A-91D8-CA5CDE478958}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vacation", "Vacation\Vacation.csproj", "{5C8D4861-581A-40A6-847A-242C642D4197}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vacation", "Vacation\Vacation.csproj", "{5C8D4861-581A-40A6-847A-242C642D4197}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Walking", "Walking\Walking.csproj", "{9E88C498-F150-46C4-8C43-4BA583296235}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Walking", "Walking\Walking.csproj", "{9E88C498-F150-46C4-8C43-4BA583296235}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coins", "Coins\Coins.csproj", "{A78F9EF4-AD37-4978-9006-0E111B74FD4C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoinsWithIfConstruction", "Coins\CoinsWithIfConstruction.csproj", "{A78F9EF4-AD37-4978-9006-0E111B74FD4C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cake", "Cake\Cake.csproj", "{5E9D86AC-DD58-41C5-90DC-270F32F4B841}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cake", "Cake\Cake.csproj", "{5E9D86AC-DD58-41C5-90DC-270F32F4B841}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinsWithWhileConstruction", "CoinsWithWileConstruction\CoinsWithWhileConstruction.csproj", "{E3EE85D3-FE32-4DAF-AEDC-223A7FEC4CE8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{5E9D86AC-DD58-41C5-90DC-270F32F4B841}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E9D86AC-DD58-41C5-90DC-270F32F4B841}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E9D86AC-DD58-41C5-90DC-270F32F4B841}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3EE85D3-FE32-4DAF-AEDC-223A7FEC4CE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3EE85D3-FE32-4DAF-AEDC-223A7FEC4CE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3EE85D3-FE32-4DAF-AEDC-223A7FEC4CE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3EE85D3-FE32-4DAF-AEDC-223A7FEC4CE8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

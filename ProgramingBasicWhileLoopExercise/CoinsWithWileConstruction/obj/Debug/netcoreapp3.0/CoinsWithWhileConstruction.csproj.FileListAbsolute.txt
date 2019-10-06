@@ -1,0 +1,10 @@
+D:\Learning\C#Basic\ProgramingBasicWhileLoopExercise\CoinsWithWileConstruction\bin\Debug\netcoreapp3.0\CoinsWithWhileConstruction.exe
+D:\Learning\C#Basic\ProgramingBasicWhileLoopExercise\CoinsWithWileConstruction\bin\Debug\netcoreapp3.0\CoinsWithWhileConstruction.deps.json
+D:\Learning\C#Basic\ProgramingBasicWhileLoopExercise\CoinsWithWileConstruction\bin\Debug\netcoreapp3.0\CoinsWithWhileConstruction.runtimeconfig.json
+D:\Learning\C#Basic\ProgramingBasicWhileLoopExercise\CoinsWithWileConstruction\bin\Debug\netcoreapp3.0\CoinsWithWhileConstruction.runtimeconfig.dev.json
+D:\Learning\C#Basic\ProgramingBasicWhileLoopExercise\CoinsWithWileConstruction\bin\Debug\netcoreapp3.0\CoinsWithWhileConstruction.dll
+D:\Learning\C#Basic\ProgramingBasicWhileLoopExercise\CoinsWithWileConstruction\bin\Debug\netcoreapp3.0\CoinsWithWhileConstruction.pdb
+D:\Learning\C#Basic\ProgramingBasicWhileLoopExercise\CoinsWithWileConstruction\obj\Debug\netcoreapp3.0\CoinsWithWhileConstruction.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\ProgramingBasicWhileLoopExercise\CoinsWithWileConstruction\obj\Debug\netcoreapp3.0\CoinsWithWhileConstruction.AssemblyInfo.cs
+D:\Learning\C#Basic\ProgramingBasicWhileLoopExercise\CoinsWithWileConstruction\obj\Debug\netcoreapp3.0\CoinsWithWhileConstruction.dll
+D:\Learning\C#Basic\ProgramingBasicWhileLoopExercise\CoinsWithWileConstruction\obj\Debug\netcoreapp3.0\CoinsWithWhileConstruction.pdb

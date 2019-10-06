@@ -1,0 +1,11 @@
+D:\Learning\C#Basic\ProgramingBasicWhileLoopExercise\Coins\bin\Debug\netcoreapp3.0\CoinsWithIfConstruction.exe
+D:\Learning\C#Basic\ProgramingBasicWhileLoopExercise\Coins\bin\Debug\netcoreapp3.0\CoinsWithIfConstruction.deps.json
+D:\Learning\C#Basic\ProgramingBasicWhileLoopExercise\Coins\bin\Debug\netcoreapp3.0\CoinsWithIfConstruction.runtimeconfig.json
+D:\Learning\C#Basic\ProgramingBasicWhileLoopExercise\Coins\bin\Debug\netcoreapp3.0\CoinsWithIfConstruction.runtimeconfig.dev.json
+D:\Learning\C#Basic\ProgramingBasicWhileLoopExercise\Coins\bin\Debug\netcoreapp3.0\CoinsWithIfConstruction.dll
+D:\Learning\C#Basic\ProgramingBasicWhileLoopExercise\Coins\bin\Debug\netcoreapp3.0\CoinsWithIfConstruction.pdb
+D:\Learning\C#Basic\ProgramingBasicWhileLoopExercise\Coins\obj\Debug\netcoreapp3.0\CoinsWithIfConstruction.csprojAssemblyReference.cache
+D:\Learning\C#Basic\ProgramingBasicWhileLoopExercise\Coins\obj\Debug\netcoreapp3.0\CoinsWithIfConstruction.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\ProgramingBasicWhileLoopExercise\Coins\obj\Debug\netcoreapp3.0\CoinsWithIfConstruction.AssemblyInfo.cs
+D:\Learning\C#Basic\ProgramingBasicWhileLoopExercise\Coins\obj\Debug\netcoreapp3.0\CoinsWithIfConstruction.dll
+D:\Learning\C#Basic\ProgramingBasicWhileLoopExercise\Coins\obj\Debug\netcoreapp3.0\CoinsWithIfConstruction.pdb
