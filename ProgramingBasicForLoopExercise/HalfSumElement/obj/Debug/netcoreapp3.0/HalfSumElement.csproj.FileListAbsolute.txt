@@ -1,0 +1,11 @@
+D:\Learning\C#Basic\ForLoopExercise\HalfSumElement\bin\Debug\netcoreapp3.0\HalfSumElement.exe
+D:\Learning\C#Basic\ForLoopExercise\HalfSumElement\bin\Debug\netcoreapp3.0\HalfSumElement.deps.json
+D:\Learning\C#Basic\ForLoopExercise\HalfSumElement\bin\Debug\netcoreapp3.0\HalfSumElement.runtimeconfig.json
+D:\Learning\C#Basic\ForLoopExercise\HalfSumElement\bin\Debug\netcoreapp3.0\HalfSumElement.runtimeconfig.dev.json
+D:\Learning\C#Basic\ForLoopExercise\HalfSumElement\bin\Debug\netcoreapp3.0\HalfSumElement.dll
+D:\Learning\C#Basic\ForLoopExercise\HalfSumElement\bin\Debug\netcoreapp3.0\HalfSumElement.pdb
+D:\Learning\C#Basic\ForLoopExercise\HalfSumElement\obj\Debug\netcoreapp3.0\HalfSumElement.csprojAssemblyReference.cache
+D:\Learning\C#Basic\ForLoopExercise\HalfSumElement\obj\Debug\netcoreapp3.0\HalfSumElement.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\ForLoopExercise\HalfSumElement\obj\Debug\netcoreapp3.0\HalfSumElement.AssemblyInfo.cs
+D:\Learning\C#Basic\ForLoopExercise\HalfSumElement\obj\Debug\netcoreapp3.0\HalfSumElement.dll
+D:\Learning\C#Basic\ForLoopExercise\HalfSumElement\obj\Debug\netcoreapp3.0\HalfSumElement.pdb

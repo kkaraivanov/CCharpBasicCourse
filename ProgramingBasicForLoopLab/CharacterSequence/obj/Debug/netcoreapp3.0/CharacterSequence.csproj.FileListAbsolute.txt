@@ -1,0 +1,11 @@
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\CharacterSequence\bin\Debug\netcoreapp3.0\CharacterSequence.exe
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\CharacterSequence\bin\Debug\netcoreapp3.0\CharacterSequence.deps.json
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\CharacterSequence\bin\Debug\netcoreapp3.0\CharacterSequence.runtimeconfig.json
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\CharacterSequence\bin\Debug\netcoreapp3.0\CharacterSequence.runtimeconfig.dev.json
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\CharacterSequence\bin\Debug\netcoreapp3.0\CharacterSequence.dll
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\CharacterSequence\bin\Debug\netcoreapp3.0\CharacterSequence.pdb
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\CharacterSequence\obj\Debug\netcoreapp3.0\CharacterSequence.csprojAssemblyReference.cache
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\CharacterSequence\obj\Debug\netcoreapp3.0\CharacterSequence.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\CharacterSequence\obj\Debug\netcoreapp3.0\CharacterSequence.AssemblyInfo.cs
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\CharacterSequence\obj\Debug\netcoreapp3.0\CharacterSequence.dll
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\CharacterSequence\obj\Debug\netcoreapp3.0\CharacterSequence.pdb

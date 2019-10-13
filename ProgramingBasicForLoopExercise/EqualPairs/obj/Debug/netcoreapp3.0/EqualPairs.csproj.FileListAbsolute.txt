@@ -1,0 +1,11 @@
+D:\Learning\C#Basic\ForLoopExercise\EqualPairs\bin\Debug\netcoreapp3.0\EqualPairs.exe
+D:\Learning\C#Basic\ForLoopExercise\EqualPairs\bin\Debug\netcoreapp3.0\EqualPairs.deps.json
+D:\Learning\C#Basic\ForLoopExercise\EqualPairs\bin\Debug\netcoreapp3.0\EqualPairs.runtimeconfig.json
+D:\Learning\C#Basic\ForLoopExercise\EqualPairs\bin\Debug\netcoreapp3.0\EqualPairs.runtimeconfig.dev.json
+D:\Learning\C#Basic\ForLoopExercise\EqualPairs\bin\Debug\netcoreapp3.0\EqualPairs.dll
+D:\Learning\C#Basic\ForLoopExercise\EqualPairs\bin\Debug\netcoreapp3.0\EqualPairs.pdb
+D:\Learning\C#Basic\ForLoopExercise\EqualPairs\obj\Debug\netcoreapp3.0\EqualPairs.csprojAssemblyReference.cache
+D:\Learning\C#Basic\ForLoopExercise\EqualPairs\obj\Debug\netcoreapp3.0\EqualPairs.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\ForLoopExercise\EqualPairs\obj\Debug\netcoreapp3.0\EqualPairs.AssemblyInfo.cs
+D:\Learning\C#Basic\ForLoopExercise\EqualPairs\obj\Debug\netcoreapp3.0\EqualPairs.dll
+D:\Learning\C#Basic\ForLoopExercise\EqualPairs\obj\Debug\netcoreapp3.0\EqualPairs.pdb

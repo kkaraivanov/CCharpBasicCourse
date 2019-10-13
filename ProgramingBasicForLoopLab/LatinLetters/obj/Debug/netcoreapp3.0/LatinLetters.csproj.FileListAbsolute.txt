@@ -1,0 +1,11 @@
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\LatinLetters\bin\Debug\netcoreapp3.0\LatinLetters.exe
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\LatinLetters\bin\Debug\netcoreapp3.0\LatinLetters.deps.json
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\LatinLetters\bin\Debug\netcoreapp3.0\LatinLetters.runtimeconfig.json
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\LatinLetters\bin\Debug\netcoreapp3.0\LatinLetters.runtimeconfig.dev.json
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\LatinLetters\bin\Debug\netcoreapp3.0\LatinLetters.dll
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\LatinLetters\bin\Debug\netcoreapp3.0\LatinLetters.pdb
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\LatinLetters\obj\Debug\netcoreapp3.0\LatinLetters.csprojAssemblyReference.cache
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\LatinLetters\obj\Debug\netcoreapp3.0\LatinLetters.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\LatinLetters\obj\Debug\netcoreapp3.0\LatinLetters.AssemblyInfo.cs
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\LatinLetters\obj\Debug\netcoreapp3.0\LatinLetters.dll
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\LatinLetters\obj\Debug\netcoreapp3.0\LatinLetters.pdb

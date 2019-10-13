@@ -1,0 +1,10 @@
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\SumNumbers\bin\Debug\netcoreapp3.0\SumNumbers.exe
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\SumNumbers\bin\Debug\netcoreapp3.0\SumNumbers.deps.json
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\SumNumbers\bin\Debug\netcoreapp3.0\SumNumbers.runtimeconfig.json
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\SumNumbers\bin\Debug\netcoreapp3.0\SumNumbers.runtimeconfig.dev.json
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\SumNumbers\bin\Debug\netcoreapp3.0\SumNumbers.dll
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\SumNumbers\bin\Debug\netcoreapp3.0\SumNumbers.pdb
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\SumNumbers\obj\Debug\netcoreapp3.0\SumNumbers.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\SumNumbers\obj\Debug\netcoreapp3.0\SumNumbers.AssemblyInfo.cs
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\SumNumbers\obj\Debug\netcoreapp3.0\SumNumbers.dll
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\SumNumbers\obj\Debug\netcoreapp3.0\SumNumbers.pdb

@@ -1,0 +1,11 @@
+D:\Learning\C#Basic\ForLoopExercise\OddEvenPosition\bin\Debug\netcoreapp3.0\OddEvenPosition.exe
+D:\Learning\C#Basic\ForLoopExercise\OddEvenPosition\bin\Debug\netcoreapp3.0\OddEvenPosition.deps.json
+D:\Learning\C#Basic\ForLoopExercise\OddEvenPosition\bin\Debug\netcoreapp3.0\OddEvenPosition.runtimeconfig.json
+D:\Learning\C#Basic\ForLoopExercise\OddEvenPosition\bin\Debug\netcoreapp3.0\OddEvenPosition.runtimeconfig.dev.json
+D:\Learning\C#Basic\ForLoopExercise\OddEvenPosition\bin\Debug\netcoreapp3.0\OddEvenPosition.dll
+D:\Learning\C#Basic\ForLoopExercise\OddEvenPosition\bin\Debug\netcoreapp3.0\OddEvenPosition.pdb
+D:\Learning\C#Basic\ForLoopExercise\OddEvenPosition\obj\Debug\netcoreapp3.0\OddEvenPosition.csprojAssemblyReference.cache
+D:\Learning\C#Basic\ForLoopExercise\OddEvenPosition\obj\Debug\netcoreapp3.0\OddEvenPosition.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\ForLoopExercise\OddEvenPosition\obj\Debug\netcoreapp3.0\OddEvenPosition.AssemblyInfo.cs
+D:\Learning\C#Basic\ForLoopExercise\OddEvenPosition\obj\Debug\netcoreapp3.0\OddEvenPosition.dll
+D:\Learning\C#Basic\ForLoopExercise\OddEvenPosition\obj\Debug\netcoreapp3.0\OddEvenPosition.pdb

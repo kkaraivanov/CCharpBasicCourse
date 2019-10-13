@@ -1,0 +1,10 @@
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\OddEvenSum\bin\Debug\netcoreapp3.0\OddEvenSum.exe
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\OddEvenSum\bin\Debug\netcoreapp3.0\OddEvenSum.deps.json
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\OddEvenSum\bin\Debug\netcoreapp3.0\OddEvenSum.runtimeconfig.json
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\OddEvenSum\bin\Debug\netcoreapp3.0\OddEvenSum.runtimeconfig.dev.json
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\OddEvenSum\bin\Debug\netcoreapp3.0\OddEvenSum.dll
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\OddEvenSum\bin\Debug\netcoreapp3.0\OddEvenSum.pdb
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\OddEvenSum\obj\Debug\netcoreapp3.0\OddEvenSum.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\OddEvenSum\obj\Debug\netcoreapp3.0\OddEvenSum.AssemblyInfo.cs
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\OddEvenSum\obj\Debug\netcoreapp3.0\OddEvenSum.dll
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\OddEvenSum\obj\Debug\netcoreapp3.0\OddEvenSum.pdb

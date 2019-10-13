@@ -1,0 +1,11 @@
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\CleverLily\bin\Debug\netcoreapp3.0\CleverLily.exe
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\CleverLily\bin\Debug\netcoreapp3.0\CleverLily.deps.json
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\CleverLily\bin\Debug\netcoreapp3.0\CleverLily.runtimeconfig.json
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\CleverLily\bin\Debug\netcoreapp3.0\CleverLily.runtimeconfig.dev.json
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\CleverLily\bin\Debug\netcoreapp3.0\CleverLily.dll
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\CleverLily\bin\Debug\netcoreapp3.0\CleverLily.pdb
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\CleverLily\obj\Debug\netcoreapp3.0\CleverLily.csprojAssemblyReference.cache
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\CleverLily\obj\Debug\netcoreapp3.0\CleverLily.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\CleverLily\obj\Debug\netcoreapp3.0\CleverLily.AssemblyInfo.cs
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\CleverLily\obj\Debug\netcoreapp3.0\CleverLily.dll
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\CleverLily\obj\Debug\netcoreapp3.0\CleverLily.pdb

@@ -1,0 +1,11 @@
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\VowelsSum\bin\Debug\netcoreapp3.0\VowelsSum.exe
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\VowelsSum\bin\Debug\netcoreapp3.0\VowelsSum.deps.json
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\VowelsSum\bin\Debug\netcoreapp3.0\VowelsSum.runtimeconfig.json
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\VowelsSum\bin\Debug\netcoreapp3.0\VowelsSum.runtimeconfig.dev.json
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\VowelsSum\bin\Debug\netcoreapp3.0\VowelsSum.dll
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\VowelsSum\bin\Debug\netcoreapp3.0\VowelsSum.pdb
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\VowelsSum\obj\Debug\netcoreapp3.0\VowelsSum.csprojAssemblyReference.cache
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\VowelsSum\obj\Debug\netcoreapp3.0\VowelsSum.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\VowelsSum\obj\Debug\netcoreapp3.0\VowelsSum.AssemblyInfo.cs
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\VowelsSum\obj\Debug\netcoreapp3.0\VowelsSum.dll
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\VowelsSum\obj\Debug\netcoreapp3.0\VowelsSum.pdb

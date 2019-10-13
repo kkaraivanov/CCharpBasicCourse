@@ -1,0 +1,10 @@
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\Numbers1NWithStep3\bin\Debug\netcoreapp3.0\Numbers1NWithStep3.exe
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\Numbers1NWithStep3\bin\Debug\netcoreapp3.0\Numbers1NWithStep3.deps.json
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\Numbers1NWithStep3\bin\Debug\netcoreapp3.0\Numbers1NWithStep3.runtimeconfig.json
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\Numbers1NWithStep3\bin\Debug\netcoreapp3.0\Numbers1NWithStep3.runtimeconfig.dev.json
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\Numbers1NWithStep3\bin\Debug\netcoreapp3.0\Numbers1NWithStep3.dll
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\Numbers1NWithStep3\bin\Debug\netcoreapp3.0\Numbers1NWithStep3.pdb
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\Numbers1NWithStep3\obj\Debug\netcoreapp3.0\Numbers1NWithStep3.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\Numbers1NWithStep3\obj\Debug\netcoreapp3.0\Numbers1NWithStep3.AssemblyInfo.cs
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\Numbers1NWithStep3\obj\Debug\netcoreapp3.0\Numbers1NWithStep3.dll
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\Numbers1NWithStep3\obj\Debug\netcoreapp3.0\Numbers1NWithStep3.pdb

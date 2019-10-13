@@ -1,0 +1,11 @@
+D:\Learning\C#Basic\ForLoopExercise\Histogram\bin\Debug\netcoreapp3.0\Histogram.exe
+D:\Learning\C#Basic\ForLoopExercise\Histogram\bin\Debug\netcoreapp3.0\Histogram.deps.json
+D:\Learning\C#Basic\ForLoopExercise\Histogram\bin\Debug\netcoreapp3.0\Histogram.runtimeconfig.json
+D:\Learning\C#Basic\ForLoopExercise\Histogram\bin\Debug\netcoreapp3.0\Histogram.runtimeconfig.dev.json
+D:\Learning\C#Basic\ForLoopExercise\Histogram\bin\Debug\netcoreapp3.0\Histogram.dll
+D:\Learning\C#Basic\ForLoopExercise\Histogram\bin\Debug\netcoreapp3.0\Histogram.pdb
+D:\Learning\C#Basic\ForLoopExercise\Histogram\obj\Debug\netcoreapp3.0\Histogram.csprojAssemblyReference.cache
+D:\Learning\C#Basic\ForLoopExercise\Histogram\obj\Debug\netcoreapp3.0\Histogram.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\ForLoopExercise\Histogram\obj\Debug\netcoreapp3.0\Histogram.AssemblyInfo.cs
+D:\Learning\C#Basic\ForLoopExercise\Histogram\obj\Debug\netcoreapp3.0\Histogram.dll
+D:\Learning\C#Basic\ForLoopExercise\Histogram\obj\Debug\netcoreapp3.0\Histogram.pdb

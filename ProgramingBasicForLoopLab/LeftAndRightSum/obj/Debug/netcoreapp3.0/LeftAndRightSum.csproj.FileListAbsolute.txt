@@ -1,0 +1,10 @@
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\LeftAndRightSum\bin\Debug\netcoreapp3.0\LeftAndRightSum.exe
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\LeftAndRightSum\bin\Debug\netcoreapp3.0\LeftAndRightSum.deps.json
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\LeftAndRightSum\bin\Debug\netcoreapp3.0\LeftAndRightSum.runtimeconfig.json
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\LeftAndRightSum\bin\Debug\netcoreapp3.0\LeftAndRightSum.runtimeconfig.dev.json
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\LeftAndRightSum\bin\Debug\netcoreapp3.0\LeftAndRightSum.dll
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\LeftAndRightSum\bin\Debug\netcoreapp3.0\LeftAndRightSum.pdb
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\LeftAndRightSum\obj\Debug\netcoreapp3.0\LeftAndRightSum.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\LeftAndRightSum\obj\Debug\netcoreapp3.0\LeftAndRightSum.AssemblyInfo.cs
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\LeftAndRightSum\obj\Debug\netcoreapp3.0\LeftAndRightSum.dll
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\LeftAndRightSum\obj\Debug\netcoreapp3.0\LeftAndRightSum.pdb

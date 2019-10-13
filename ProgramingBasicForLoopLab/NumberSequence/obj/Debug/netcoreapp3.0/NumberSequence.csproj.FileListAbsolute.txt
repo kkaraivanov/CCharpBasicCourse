@@ -1,0 +1,10 @@
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\NumberSequence\bin\Debug\netcoreapp3.0\NumberSequence.exe
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\NumberSequence\bin\Debug\netcoreapp3.0\NumberSequence.deps.json
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\NumberSequence\bin\Debug\netcoreapp3.0\NumberSequence.runtimeconfig.json
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\NumberSequence\bin\Debug\netcoreapp3.0\NumberSequence.runtimeconfig.dev.json
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\NumberSequence\bin\Debug\netcoreapp3.0\NumberSequence.dll
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\NumberSequence\bin\Debug\netcoreapp3.0\NumberSequence.pdb
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\NumberSequence\obj\Debug\netcoreapp3.0\NumberSequence.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\NumberSequence\obj\Debug\netcoreapp3.0\NumberSequence.AssemblyInfo.cs
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\NumberSequence\obj\Debug\netcoreapp3.0\NumberSequence.dll
+D:\Learning\C#Basic\ProgramingBasicForLoopLab\NumberSequence\obj\Debug\netcoreapp3.0\NumberSequence.pdb

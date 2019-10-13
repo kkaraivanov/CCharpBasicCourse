@@ -1,0 +1,11 @@
+D:\Learning\C#Basic\ForLoopExercise\Salary\bin\Debug\netcoreapp3.0\Salary.exe
+D:\Learning\C#Basic\ForLoopExercise\Salary\bin\Debug\netcoreapp3.0\Salary.deps.json
+D:\Learning\C#Basic\ForLoopExercise\Salary\bin\Debug\netcoreapp3.0\Salary.runtimeconfig.json
+D:\Learning\C#Basic\ForLoopExercise\Salary\bin\Debug\netcoreapp3.0\Salary.runtimeconfig.dev.json
+D:\Learning\C#Basic\ForLoopExercise\Salary\bin\Debug\netcoreapp3.0\Salary.dll
+D:\Learning\C#Basic\ForLoopExercise\Salary\bin\Debug\netcoreapp3.0\Salary.pdb
+D:\Learning\C#Basic\ForLoopExercise\Salary\obj\Debug\netcoreapp3.0\Salary.csprojAssemblyReference.cache
+D:\Learning\C#Basic\ForLoopExercise\Salary\obj\Debug\netcoreapp3.0\Salary.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\ForLoopExercise\Salary\obj\Debug\netcoreapp3.0\Salary.AssemblyInfo.cs
+D:\Learning\C#Basic\ForLoopExercise\Salary\obj\Debug\netcoreapp3.0\Salary.dll
+D:\Learning\C#Basic\ForLoopExercise\Salary\obj\Debug\netcoreapp3.0\Salary.pdb

@@ -1,0 +1,10 @@
+D:\Learning\C#Basic\ForLoopExercise\DivideWithoutRemainder\bin\Debug\netcoreapp3.0\DivideWithoutRemainder.exe
+D:\Learning\C#Basic\ForLoopExercise\DivideWithoutRemainder\bin\Debug\netcoreapp3.0\DivideWithoutRemainder.deps.json
+D:\Learning\C#Basic\ForLoopExercise\DivideWithoutRemainder\bin\Debug\netcoreapp3.0\DivideWithoutRemainder.runtimeconfig.json
+D:\Learning\C#Basic\ForLoopExercise\DivideWithoutRemainder\bin\Debug\netcoreapp3.0\DivideWithoutRemainder.runtimeconfig.dev.json
+D:\Learning\C#Basic\ForLoopExercise\DivideWithoutRemainder\bin\Debug\netcoreapp3.0\DivideWithoutRemainder.dll
+D:\Learning\C#Basic\ForLoopExercise\DivideWithoutRemainder\bin\Debug\netcoreapp3.0\DivideWithoutRemainder.pdb
+D:\Learning\C#Basic\ForLoopExercise\DivideWithoutRemainder\obj\Debug\netcoreapp3.0\DivideWithoutRemainder.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\ForLoopExercise\DivideWithoutRemainder\obj\Debug\netcoreapp3.0\DivideWithoutRemainder.AssemblyInfo.cs
+D:\Learning\C#Basic\ForLoopExercise\DivideWithoutRemainder\obj\Debug\netcoreapp3.0\DivideWithoutRemainder.dll
+D:\Learning\C#Basic\ForLoopExercise\DivideWithoutRemainder\obj\Debug\netcoreapp3.0\DivideWithoutRemainder.pdb
