@@ -1,0 +1,11 @@
+D:\Learning\C#Basic\NestedLoopsLab\Clock\bin\Debug\netcoreapp3.0\Clock.exe
+D:\Learning\C#Basic\NestedLoopsLab\Clock\bin\Debug\netcoreapp3.0\Clock.deps.json
+D:\Learning\C#Basic\NestedLoopsLab\Clock\bin\Debug\netcoreapp3.0\Clock.runtimeconfig.json
+D:\Learning\C#Basic\NestedLoopsLab\Clock\bin\Debug\netcoreapp3.0\Clock.runtimeconfig.dev.json
+D:\Learning\C#Basic\NestedLoopsLab\Clock\bin\Debug\netcoreapp3.0\Clock.dll
+D:\Learning\C#Basic\NestedLoopsLab\Clock\bin\Debug\netcoreapp3.0\Clock.pdb
+D:\Learning\C#Basic\NestedLoopsLab\Clock\obj\Debug\netcoreapp3.0\Clock.csprojAssemblyReference.cache
+D:\Learning\C#Basic\NestedLoopsLab\Clock\obj\Debug\netcoreapp3.0\Clock.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\NestedLoopsLab\Clock\obj\Debug\netcoreapp3.0\Clock.AssemblyInfo.cs
+D:\Learning\C#Basic\NestedLoopsLab\Clock\obj\Debug\netcoreapp3.0\Clock.dll
+D:\Learning\C#Basic\NestedLoopsLab\Clock\obj\Debug\netcoreapp3.0\Clock.pdb

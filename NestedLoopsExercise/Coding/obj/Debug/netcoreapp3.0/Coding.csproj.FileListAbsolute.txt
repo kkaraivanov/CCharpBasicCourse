@@ -1,0 +1,11 @@
+D:\Learning\C#Basic\NestedLoopsExercise\Coding\bin\Debug\netcoreapp3.0\Coding.exe
+D:\Learning\C#Basic\NestedLoopsExercise\Coding\bin\Debug\netcoreapp3.0\Coding.deps.json
+D:\Learning\C#Basic\NestedLoopsExercise\Coding\bin\Debug\netcoreapp3.0\Coding.runtimeconfig.json
+D:\Learning\C#Basic\NestedLoopsExercise\Coding\bin\Debug\netcoreapp3.0\Coding.runtimeconfig.dev.json
+D:\Learning\C#Basic\NestedLoopsExercise\Coding\bin\Debug\netcoreapp3.0\Coding.dll
+D:\Learning\C#Basic\NestedLoopsExercise\Coding\bin\Debug\netcoreapp3.0\Coding.pdb
+D:\Learning\C#Basic\NestedLoopsExercise\Coding\obj\Debug\netcoreapp3.0\Coding.csprojAssemblyReference.cache
+D:\Learning\C#Basic\NestedLoopsExercise\Coding\obj\Debug\netcoreapp3.0\Coding.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\NestedLoopsExercise\Coding\obj\Debug\netcoreapp3.0\Coding.AssemblyInfo.cs
+D:\Learning\C#Basic\NestedLoopsExercise\Coding\obj\Debug\netcoreapp3.0\Coding.dll
+D:\Learning\C#Basic\NestedLoopsExercise\Coding\obj\Debug\netcoreapp3.0\Coding.pdb

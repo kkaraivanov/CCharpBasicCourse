@@ -1,0 +1,11 @@
+D:\Learning\C#Basic\NestedLoopsExercise\TrainTheTrainers\bin\Debug\netcoreapp3.0\TrainTheTrainers.exe
+D:\Learning\C#Basic\NestedLoopsExercise\TrainTheTrainers\bin\Debug\netcoreapp3.0\TrainTheTrainers.deps.json
+D:\Learning\C#Basic\NestedLoopsExercise\TrainTheTrainers\bin\Debug\netcoreapp3.0\TrainTheTrainers.runtimeconfig.json
+D:\Learning\C#Basic\NestedLoopsExercise\TrainTheTrainers\bin\Debug\netcoreapp3.0\TrainTheTrainers.runtimeconfig.dev.json
+D:\Learning\C#Basic\NestedLoopsExercise\TrainTheTrainers\bin\Debug\netcoreapp3.0\TrainTheTrainers.dll
+D:\Learning\C#Basic\NestedLoopsExercise\TrainTheTrainers\bin\Debug\netcoreapp3.0\TrainTheTrainers.pdb
+D:\Learning\C#Basic\NestedLoopsExercise\TrainTheTrainers\obj\Debug\netcoreapp3.0\TrainTheTrainers.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\NestedLoopsExercise\TrainTheTrainers\obj\Debug\netcoreapp3.0\TrainTheTrainers.AssemblyInfo.cs
+D:\Learning\C#Basic\NestedLoopsExercise\TrainTheTrainers\obj\Debug\netcoreapp3.0\TrainTheTrainers.dll
+D:\Learning\C#Basic\NestedLoopsExercise\TrainTheTrainers\obj\Debug\netcoreapp3.0\TrainTheTrainers.pdb
+D:\Learning\C#Basic\NestedLoopsExercise\TrainTheTrainers\obj\Debug\netcoreapp3.0\TrainTheTrainers.csprojAssemblyReference.cache

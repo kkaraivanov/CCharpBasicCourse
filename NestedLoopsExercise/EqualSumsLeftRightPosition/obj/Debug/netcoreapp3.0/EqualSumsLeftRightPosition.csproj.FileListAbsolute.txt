@@ -1,0 +1,11 @@
+D:\Learning\C#Basic\NestedLoopsExercise\EqualSumsLeftRightPosition\bin\Debug\netcoreapp3.0\EqualSumsLeftRightPosition.exe
+D:\Learning\C#Basic\NestedLoopsExercise\EqualSumsLeftRightPosition\bin\Debug\netcoreapp3.0\EqualSumsLeftRightPosition.deps.json
+D:\Learning\C#Basic\NestedLoopsExercise\EqualSumsLeftRightPosition\bin\Debug\netcoreapp3.0\EqualSumsLeftRightPosition.runtimeconfig.json
+D:\Learning\C#Basic\NestedLoopsExercise\EqualSumsLeftRightPosition\bin\Debug\netcoreapp3.0\EqualSumsLeftRightPosition.runtimeconfig.dev.json
+D:\Learning\C#Basic\NestedLoopsExercise\EqualSumsLeftRightPosition\bin\Debug\netcoreapp3.0\EqualSumsLeftRightPosition.dll
+D:\Learning\C#Basic\NestedLoopsExercise\EqualSumsLeftRightPosition\bin\Debug\netcoreapp3.0\EqualSumsLeftRightPosition.pdb
+D:\Learning\C#Basic\NestedLoopsExercise\EqualSumsLeftRightPosition\obj\Debug\netcoreapp3.0\EqualSumsLeftRightPosition.csprojAssemblyReference.cache
+D:\Learning\C#Basic\NestedLoopsExercise\EqualSumsLeftRightPosition\obj\Debug\netcoreapp3.0\EqualSumsLeftRightPosition.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\NestedLoopsExercise\EqualSumsLeftRightPosition\obj\Debug\netcoreapp3.0\EqualSumsLeftRightPosition.AssemblyInfo.cs
+D:\Learning\C#Basic\NestedLoopsExercise\EqualSumsLeftRightPosition\obj\Debug\netcoreapp3.0\EqualSumsLeftRightPosition.dll
+D:\Learning\C#Basic\NestedLoopsExercise\EqualSumsLeftRightPosition\obj\Debug\netcoreapp3.0\EqualSumsLeftRightPosition.pdb

@@ -1,0 +1,11 @@
+D:\Learning\C#Basic\NestedLoopsLab\CinemaTickets\bin\Debug\netcoreapp3.0\CinemaTickets.exe
+D:\Learning\C#Basic\NestedLoopsLab\CinemaTickets\bin\Debug\netcoreapp3.0\CinemaTickets.deps.json
+D:\Learning\C#Basic\NestedLoopsLab\CinemaTickets\bin\Debug\netcoreapp3.0\CinemaTickets.runtimeconfig.json
+D:\Learning\C#Basic\NestedLoopsLab\CinemaTickets\bin\Debug\netcoreapp3.0\CinemaTickets.runtimeconfig.dev.json
+D:\Learning\C#Basic\NestedLoopsLab\CinemaTickets\bin\Debug\netcoreapp3.0\CinemaTickets.dll
+D:\Learning\C#Basic\NestedLoopsLab\CinemaTickets\bin\Debug\netcoreapp3.0\CinemaTickets.pdb
+D:\Learning\C#Basic\NestedLoopsLab\CinemaTickets\obj\Debug\netcoreapp3.0\CinemaTickets.csprojAssemblyReference.cache
+D:\Learning\C#Basic\NestedLoopsLab\CinemaTickets\obj\Debug\netcoreapp3.0\CinemaTickets.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\NestedLoopsLab\CinemaTickets\obj\Debug\netcoreapp3.0\CinemaTickets.AssemblyInfo.cs
+D:\Learning\C#Basic\NestedLoopsLab\CinemaTickets\obj\Debug\netcoreapp3.0\CinemaTickets.dll
+D:\Learning\C#Basic\NestedLoopsLab\CinemaTickets\obj\Debug\netcoreapp3.0\CinemaTickets.pdb

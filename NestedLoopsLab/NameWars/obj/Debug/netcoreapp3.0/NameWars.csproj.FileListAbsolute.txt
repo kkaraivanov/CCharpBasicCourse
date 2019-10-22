@@ -1,0 +1,10 @@
+D:\Learning\C#Basic\NestedLoopsLab\NameWars\bin\Debug\netcoreapp3.0\NameWars.exe
+D:\Learning\C#Basic\NestedLoopsLab\NameWars\bin\Debug\netcoreapp3.0\NameWars.deps.json
+D:\Learning\C#Basic\NestedLoopsLab\NameWars\bin\Debug\netcoreapp3.0\NameWars.runtimeconfig.json
+D:\Learning\C#Basic\NestedLoopsLab\NameWars\bin\Debug\netcoreapp3.0\NameWars.runtimeconfig.dev.json
+D:\Learning\C#Basic\NestedLoopsLab\NameWars\bin\Debug\netcoreapp3.0\NameWars.dll
+D:\Learning\C#Basic\NestedLoopsLab\NameWars\bin\Debug\netcoreapp3.0\NameWars.pdb
+D:\Learning\C#Basic\NestedLoopsLab\NameWars\obj\Debug\netcoreapp3.0\NameWars.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\NestedLoopsLab\NameWars\obj\Debug\netcoreapp3.0\NameWars.AssemblyInfo.cs
+D:\Learning\C#Basic\NestedLoopsLab\NameWars\obj\Debug\netcoreapp3.0\NameWars.dll
+D:\Learning\C#Basic\NestedLoopsLab\NameWars\obj\Debug\netcoreapp3.0\NameWars.pdb

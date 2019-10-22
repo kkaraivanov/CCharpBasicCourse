@@ -1,0 +1,11 @@
+D:\Learning\C#Basic\NestedLoopsExercise\Fishing\bin\Debug\netcoreapp3.0\Fishing.exe
+D:\Learning\C#Basic\NestedLoopsExercise\Fishing\bin\Debug\netcoreapp3.0\Fishing.deps.json
+D:\Learning\C#Basic\NestedLoopsExercise\Fishing\bin\Debug\netcoreapp3.0\Fishing.runtimeconfig.json
+D:\Learning\C#Basic\NestedLoopsExercise\Fishing\bin\Debug\netcoreapp3.0\Fishing.runtimeconfig.dev.json
+D:\Learning\C#Basic\NestedLoopsExercise\Fishing\bin\Debug\netcoreapp3.0\Fishing.dll
+D:\Learning\C#Basic\NestedLoopsExercise\Fishing\bin\Debug\netcoreapp3.0\Fishing.pdb
+D:\Learning\C#Basic\NestedLoopsExercise\Fishing\obj\Debug\netcoreapp3.0\Fishing.csprojAssemblyReference.cache
+D:\Learning\C#Basic\NestedLoopsExercise\Fishing\obj\Debug\netcoreapp3.0\Fishing.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\NestedLoopsExercise\Fishing\obj\Debug\netcoreapp3.0\Fishing.AssemblyInfo.cs
+D:\Learning\C#Basic\NestedLoopsExercise\Fishing\obj\Debug\netcoreapp3.0\Fishing.dll
+D:\Learning\C#Basic\NestedLoopsExercise\Fishing\obj\Debug\netcoreapp3.0\Fishing.pdb

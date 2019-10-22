@@ -1,0 +1,11 @@
+D:\Learning\C#Basic\NestedLoopsLab\Combinations\bin\Debug\netcoreapp3.0\Combinations.exe
+D:\Learning\C#Basic\NestedLoopsLab\Combinations\bin\Debug\netcoreapp3.0\Combinations.deps.json
+D:\Learning\C#Basic\NestedLoopsLab\Combinations\bin\Debug\netcoreapp3.0\Combinations.runtimeconfig.json
+D:\Learning\C#Basic\NestedLoopsLab\Combinations\bin\Debug\netcoreapp3.0\Combinations.runtimeconfig.dev.json
+D:\Learning\C#Basic\NestedLoopsLab\Combinations\bin\Debug\netcoreapp3.0\Combinations.dll
+D:\Learning\C#Basic\NestedLoopsLab\Combinations\bin\Debug\netcoreapp3.0\Combinations.pdb
+D:\Learning\C#Basic\NestedLoopsLab\Combinations\obj\Debug\netcoreapp3.0\Combinations.csprojAssemblyReference.cache
+D:\Learning\C#Basic\NestedLoopsLab\Combinations\obj\Debug\netcoreapp3.0\Combinations.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\NestedLoopsLab\Combinations\obj\Debug\netcoreapp3.0\Combinations.AssemblyInfo.cs
+D:\Learning\C#Basic\NestedLoopsLab\Combinations\obj\Debug\netcoreapp3.0\Combinations.dll
+D:\Learning\C#Basic\NestedLoopsLab\Combinations\obj\Debug\netcoreapp3.0\Combinations.pdb

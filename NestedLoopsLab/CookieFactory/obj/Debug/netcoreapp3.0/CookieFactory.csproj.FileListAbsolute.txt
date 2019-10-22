@@ -1,0 +1,11 @@
+D:\Learning\C#Basic\NestedLoopsLab\CookieFactory\bin\Debug\netcoreapp3.0\CookieFactory.exe
+D:\Learning\C#Basic\NestedLoopsLab\CookieFactory\bin\Debug\netcoreapp3.0\CookieFactory.deps.json
+D:\Learning\C#Basic\NestedLoopsLab\CookieFactory\bin\Debug\netcoreapp3.0\CookieFactory.runtimeconfig.json
+D:\Learning\C#Basic\NestedLoopsLab\CookieFactory\bin\Debug\netcoreapp3.0\CookieFactory.runtimeconfig.dev.json
+D:\Learning\C#Basic\NestedLoopsLab\CookieFactory\bin\Debug\netcoreapp3.0\CookieFactory.dll
+D:\Learning\C#Basic\NestedLoopsLab\CookieFactory\bin\Debug\netcoreapp3.0\CookieFactory.pdb
+D:\Learning\C#Basic\NestedLoopsLab\CookieFactory\obj\Debug\netcoreapp3.0\CookieFactory.csprojAssemblyReference.cache
+D:\Learning\C#Basic\NestedLoopsLab\CookieFactory\obj\Debug\netcoreapp3.0\CookieFactory.AssemblyInfoInputs.cache
+D:\Learning\C#Basic\NestedLoopsLab\CookieFactory\obj\Debug\netcoreapp3.0\CookieFactory.AssemblyInfo.cs
+D:\Learning\C#Basic\NestedLoopsLab\CookieFactory\obj\Debug\netcoreapp3.0\CookieFactory.dll
+D:\Learning\C#Basic\NestedLoopsLab\CookieFactory\obj\Debug\netcoreapp3.0\CookieFactory.pdb
